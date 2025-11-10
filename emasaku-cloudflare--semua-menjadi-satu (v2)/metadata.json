@@ -1,7 +1,0 @@
-{
-  "name": "EmaSaku cloudflare- Semua Menjadi Satu",
-  "description": "A modern web application for managing personal and group savings, contributions, and donations, featuring distinct dashboards for members and administrators, enhanced with an AI financial advisor.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
