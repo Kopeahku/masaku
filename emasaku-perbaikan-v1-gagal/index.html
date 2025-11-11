@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EmaSaku - Aplikasi Tabungan Digital</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+      .font-amiri { font-family: 'Amiri', serif; }
+
+      /* --- Old Tajweed Coloring Rules (kept for reference) --- */
+      .tajweed { font-weight: bold; }
+      .idghaam_ghunnah { color: #2E7D32; }
+      .idghaam_no_ghunnah { color: #6A1B9A; }
+      .idghaam_mutajanisayn { color: #6A1B9A; }
+      .idghaam_mutaqaribayn { color: #6A1B9A; }
+      .ikhfa { color: #0288D1; }
+      .ikhfa_shafawi { color: #0288D1; }
+      .iqlab { color: #1565C0; }
+      .qalqalah { color: #1976D2; }
+      .ghunnah { color: #43A047; }
+      .madd_2 { color: #D32F2F; }
+      .madd_4_5 { color: #D32F2F; }
+      .madd_6 { color: #C62828; }
+      .hamzat_wasl, .silent { color: #757575; }
+      .sajdah { color: #00796B; text-decoration: underline;}
+
+      /* --- New Tajweed Coloring Rules from API --- */
+      .font-amiri span { font-weight: bold; }
+      .g { color: #43A047; } /* Ghunnah */
+      .q { color: #1976D2; } /* Qalqalah */
+      .i { color: #0288D1; } /* Ikhfa' */
+      .n { color: #2E7D32; } /* Idgham */
+      .m { color: #1565C0; } /* Iqlab */
+      .l { color: #D32F2F; } /* Lam & Ra Rules */
+      .h { color: #757575; } /* Hamzat Wasl */
+
+      /* --- Tasbih Component Styles --- */
+      .tasbih-modal-backdrop { backdrop-filter: blur(8px); background: rgba(10,10,10,0.24); }
+      .tasbih-modal-enter { opacity: 0; transform: scale(.96); }
+      .tasbih-modal-enter-active { opacity: 1; transform: scale(1); transition: opacity 260ms ease, transform 260ms cubic-bezier(.2,.9,.2,1); }
+      .tasbih-modal-leave-active { opacity: 0; transform: scale(.96); transition: opacity 200ms ease, transform 200ms cubic-bezier(.2,.9,.2,1); }
+      .progress-ring { transform-origin: 60px 60px; transition: transform 260ms ease-out, stroke-dashoffset 300ms ease-out; }
+      .pressable:active { transform: translateY(1px) scale(.997); }
+
+      /* --- Job Card Animation --- */
+      .job-card {
+        opacity: 0;
+        transform: translateY(20px);
+        transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+      }
+      .job-card.is-visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      /* --- Arisan Jar Animation --- */
+      .arisan-jar {
+          position: relative;
+          width: 150px;
+          height: 150px;
+          background: rgba(255, 255, 255, 0.1);
+          border: 4px solid rgb(var(--color-gold-default));
+          border-bottom-left-radius: 20px;
+          border-bottom-right-radius: 20px;
+          border-top-left-radius: 5px;
+          border-top-right-radius: 5px;
+          overflow: hidden;
+          transform-origin: bottom center;
+      }
+      .dark .arisan-jar {
+          background: rgba(0, 0, 0, 0.1);
+      }
+      .arisan-jar::before {
+          content: '';
+          position: absolute;
+          top: -10px;
+          left: -10px;
+          right: -10px;
+          height: 15px;
+          background: rgb(var(--color-gold-default));
+          border-radius: 5px;
+      }
+      .arisan-tickets-container {
+          position: absolute;
+          bottom: 5px;
+          left: 50%;
+          transform: translateX(-50%);
+          width: 90%;
+          height: 70%;
+      }
+      .arisan-ticket {
+          position: absolute;
+          width: 40px;
+          height: 20px;
+          background: rgb(var(--color-gold-light));
+          border-radius: 4px;
+          left: 50%;
+          bottom: 0;
+          transform-origin: center center;
+          animation: jiggle 0.5s infinite alternate ease-in-out;
+      }
+      .arisan-jar.animate-shake {
+          animation: shake 0.2s infinite;
+      }
+      .arisan-winner-ticket {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          animation: fly-out 1s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
+          opacity: 0;
+      }
+
+      @keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(0deg); }
+        25% { transform: translate(-1px, -2px) rotate(-1deg); }
+        50% { transform: translate(-3px, 0px) rotate(1deg); }
+        75% { transform: translate(3px, 2px) rotate(0deg); }
+        100% { transform: translate(1px, -1px) rotate(1deg); }
+      }
+      @keyframes jiggle {
+        from { transform: translate(calc(var(--x) - 5px), calc(var(--y) - 5px)) rotate(calc(var(--r) - 10deg)); }
+        to { transform: translate(calc(var(--x) + 5px), calc(var(--y) + 5px)) rotate(calc(var(--r) + 10deg)); }
+      }
+      @keyframes fly-out {
+        0% { transform: translateY(100px) scale(0.5); opacity: 0; }
+        100% { transform: translateY(-20px) scale(1); opacity: 1; }
+      }
+      
+      /* --- Ojek Map Route Animation --- */
+      .route-path {
+          stroke-dasharray: 1000;
+          stroke-dashoffset: 1000;
+          animation: draw-path 2s ease-out forwards;
+      }
+
+      @keyframes draw-path {
+          to {
+              stroke-dashoffset: 0;
+          }
+      }
+    </style>
+    <script>
+      // Apply theme from localStorage before page load to prevent flash
+      if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    </script>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@heroicons/react/": "https://aistudiocdn.com/@heroicons/react@^2.2.0/",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.0",
+    "react-markdown": "https://aistudiocdn.com/react-markdown@^10.1.0",
+    "vite": "https://aistudiocdn.com/vite@^7.2.2",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.1.0",
+    "recharts": "https://aistudiocdn.com/recharts@^3.4.1"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-background text-text-primary dark:bg-dark-background dark:text-dark-text-primary">
+    <div id="root"></div>
+    <script type="module" src="./index.tsx"></script>
+    <audio id="notification-sound" src="https://notificationsounds.com/storage/sounds/communication-channel-1.mp3" preload="auto"></audio>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
