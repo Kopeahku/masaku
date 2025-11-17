@@ -1,0 +1,11002 @@
+[
+  {
+    "id": 1,
+    "arab": "مدل",
+    "latin": "kata_1",
+    "translit": "translit_1",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 1",
+      "makna lain 1"
+    ]
+  },
+  {
+    "id": 2,
+    "arab": "وبر",
+    "latin": "kata_2",
+    "translit": "translit_2",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 2",
+      "makna lain 2"
+    ]
+  },
+  {
+    "id": 3,
+    "arab": "نكوه",
+    "latin": "kata_3",
+    "translit": "translit_3",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 3",
+      "makna lain 3"
+    ]
+  },
+  {
+    "id": 4,
+    "arab": "نسرلي",
+    "latin": "kata_4",
+    "translit": "translit_4",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 4",
+      "makna lain 4"
+    ]
+  },
+  {
+    "id": 5,
+    "arab": "مفتت",
+    "latin": "kata_5",
+    "translit": "translit_5",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 5",
+      "makna lain 5"
+    ]
+  },
+  {
+    "id": 6,
+    "arab": "يهدفر",
+    "latin": "kata_6",
+    "translit": "translit_6",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 6",
+      "makna lain 6"
+    ]
+  },
+  {
+    "id": 7,
+    "arab": "رليمع",
+    "latin": "kata_7",
+    "translit": "translit_7",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 7",
+      "makna lain 7"
+    ]
+  },
+  {
+    "id": 8,
+    "arab": "تهس",
+    "latin": "kata_8",
+    "translit": "translit_8",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 8",
+      "makna lain 8"
+    ]
+  },
+  {
+    "id": 9,
+    "arab": "محك",
+    "latin": "kata_9",
+    "translit": "translit_9",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 9",
+      "makna lain 9"
+    ]
+  },
+  {
+    "id": 10,
+    "arab": "قرلش",
+    "latin": "kata_10",
+    "translit": "translit_10",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 10",
+      "makna lain 10"
+    ]
+  },
+  {
+    "id": 11,
+    "arab": "رقبمع",
+    "latin": "kata_11",
+    "translit": "translit_11",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 11",
+      "makna lain 11"
+    ]
+  },
+  {
+    "id": 12,
+    "arab": "نتقف",
+    "latin": "kata_12",
+    "translit": "translit_12",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 12",
+      "makna lain 12"
+    ]
+  },
+  {
+    "id": 13,
+    "arab": "سحقت",
+    "latin": "kata_13",
+    "translit": "translit_13",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 13",
+      "makna lain 13"
+    ]
+  },
+  {
+    "id": 14,
+    "arab": "شسشبه",
+    "latin": "kata_14",
+    "translit": "translit_14",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 14",
+      "makna lain 14"
+    ]
+  },
+  {
+    "id": 15,
+    "arab": "ييع",
+    "latin": "kata_15",
+    "translit": "translit_15",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 15",
+      "makna lain 15"
+    ]
+  },
+  {
+    "id": 16,
+    "arab": "قعلفب",
+    "latin": "kata_16",
+    "translit": "translit_16",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 16",
+      "makna lain 16"
+    ]
+  },
+  {
+    "id": 17,
+    "arab": "شنفل",
+    "latin": "kata_17",
+    "translit": "translit_17",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 17",
+      "makna lain 17"
+    ]
+  },
+  {
+    "id": 18,
+    "arab": "مبيق",
+    "latin": "kata_18",
+    "translit": "translit_18",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 18",
+      "makna lain 18"
+    ]
+  },
+  {
+    "id": 19,
+    "arab": "لفمفف",
+    "latin": "kata_19",
+    "translit": "translit_19",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 19",
+      "makna lain 19"
+    ]
+  },
+  {
+    "id": 20,
+    "arab": "دعح",
+    "latin": "kata_20",
+    "translit": "translit_20",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 20",
+      "makna lain 20"
+    ]
+  },
+  {
+    "id": 21,
+    "arab": "كهش",
+    "latin": "kata_21",
+    "translit": "translit_21",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 21",
+      "makna lain 21"
+    ]
+  },
+  {
+    "id": 22,
+    "arab": "هرعيك",
+    "latin": "kata_22",
+    "translit": "translit_22",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 22",
+      "makna lain 22"
+    ]
+  },
+  {
+    "id": 23,
+    "arab": "ققشهي",
+    "latin": "kata_23",
+    "translit": "translit_23",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 23",
+      "makna lain 23"
+    ]
+  },
+  {
+    "id": 24,
+    "arab": "رقسشو",
+    "latin": "kata_24",
+    "translit": "translit_24",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 24",
+      "makna lain 24"
+    ]
+  },
+  {
+    "id": 25,
+    "arab": "قشحح",
+    "latin": "kata_25",
+    "translit": "translit_25",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 25",
+      "makna lain 25"
+    ]
+  },
+  {
+    "id": 26,
+    "arab": "دتبقح",
+    "latin": "kata_26",
+    "translit": "translit_26",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 26",
+      "makna lain 26"
+    ]
+  },
+  {
+    "id": 27,
+    "arab": "حهدب",
+    "latin": "kata_27",
+    "translit": "translit_27",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 27",
+      "makna lain 27"
+    ]
+  },
+  {
+    "id": 28,
+    "arab": "دعش",
+    "latin": "kata_28",
+    "translit": "translit_28",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 28",
+      "makna lain 28"
+    ]
+  },
+  {
+    "id": 29,
+    "arab": "حلل",
+    "latin": "kata_29",
+    "translit": "translit_29",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 29",
+      "makna lain 29"
+    ]
+  },
+  {
+    "id": 30,
+    "arab": "متم",
+    "latin": "kata_30",
+    "translit": "translit_30",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 30",
+      "makna lain 30"
+    ]
+  },
+  {
+    "id": 31,
+    "arab": "مسل",
+    "latin": "kata_31",
+    "translit": "translit_31",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 31",
+      "makna lain 31"
+    ]
+  },
+  {
+    "id": 32,
+    "arab": "دنورع",
+    "latin": "kata_32",
+    "translit": "translit_32",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 32",
+      "makna lain 32"
+    ]
+  },
+  {
+    "id": 33,
+    "arab": "سسش",
+    "latin": "kata_33",
+    "translit": "translit_33",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 33",
+      "makna lain 33"
+    ]
+  },
+  {
+    "id": 34,
+    "arab": "مدقت",
+    "latin": "kata_34",
+    "translit": "translit_34",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 34",
+      "makna lain 34"
+    ]
+  },
+  {
+    "id": 35,
+    "arab": "وتت",
+    "latin": "kata_35",
+    "translit": "translit_35",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 35",
+      "makna lain 35"
+    ]
+  },
+  {
+    "id": 36,
+    "arab": "تكهح",
+    "latin": "kata_36",
+    "translit": "translit_36",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 36",
+      "makna lain 36"
+    ]
+  },
+  {
+    "id": 37,
+    "arab": "هلفي",
+    "latin": "kata_37",
+    "translit": "translit_37",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 37",
+      "makna lain 37"
+    ]
+  },
+  {
+    "id": 38,
+    "arab": "ربسحق",
+    "latin": "kata_38",
+    "translit": "translit_38",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 38",
+      "makna lain 38"
+    ]
+  },
+  {
+    "id": 39,
+    "arab": "سفهن",
+    "latin": "kata_39",
+    "translit": "translit_39",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 39",
+      "makna lain 39"
+    ]
+  },
+  {
+    "id": 40,
+    "arab": "يتي",
+    "latin": "kata_40",
+    "translit": "translit_40",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 40",
+      "makna lain 40"
+    ]
+  },
+  {
+    "id": 41,
+    "arab": "بلت",
+    "latin": "kata_41",
+    "translit": "translit_41",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 41",
+      "makna lain 41"
+    ]
+  },
+  {
+    "id": 42,
+    "arab": "عتح",
+    "latin": "kata_42",
+    "translit": "translit_42",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 42",
+      "makna lain 42"
+    ]
+  },
+  {
+    "id": 43,
+    "arab": "نحسكر",
+    "latin": "kata_43",
+    "translit": "translit_43",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 43",
+      "makna lain 43"
+    ]
+  },
+  {
+    "id": 44,
+    "arab": "قسي",
+    "latin": "kata_44",
+    "translit": "translit_44",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 44",
+      "makna lain 44"
+    ]
+  },
+  {
+    "id": 45,
+    "arab": "شلر",
+    "latin": "kata_45",
+    "translit": "translit_45",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 45",
+      "makna lain 45"
+    ]
+  },
+  {
+    "id": 46,
+    "arab": "بتحير",
+    "latin": "kata_46",
+    "translit": "translit_46",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 46",
+      "makna lain 46"
+    ]
+  },
+  {
+    "id": 47,
+    "arab": "ركت",
+    "latin": "kata_47",
+    "translit": "translit_47",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 47",
+      "makna lain 47"
+    ]
+  },
+  {
+    "id": 48,
+    "arab": "سكك",
+    "latin": "kata_48",
+    "translit": "translit_48",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 48",
+      "makna lain 48"
+    ]
+  },
+  {
+    "id": 49,
+    "arab": "هتف",
+    "latin": "kata_49",
+    "translit": "translit_49",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 49",
+      "makna lain 49"
+    ]
+  },
+  {
+    "id": 50,
+    "arab": "سهش",
+    "latin": "kata_50",
+    "translit": "translit_50",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 50",
+      "makna lain 50"
+    ]
+  },
+  {
+    "id": 51,
+    "arab": "ييول",
+    "latin": "kata_51",
+    "translit": "translit_51",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 51",
+      "makna lain 51"
+    ]
+  },
+  {
+    "id": 52,
+    "arab": "ميرل",
+    "latin": "kata_52",
+    "translit": "translit_52",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 52",
+      "makna lain 52"
+    ]
+  },
+  {
+    "id": 53,
+    "arab": "ووحس",
+    "latin": "kata_53",
+    "translit": "translit_53",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 53",
+      "makna lain 53"
+    ]
+  },
+  {
+    "id": 54,
+    "arab": "قتسيي",
+    "latin": "kata_54",
+    "translit": "translit_54",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 54",
+      "makna lain 54"
+    ]
+  },
+  {
+    "id": 55,
+    "arab": "رعتنت",
+    "latin": "kata_55",
+    "translit": "translit_55",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 55",
+      "makna lain 55"
+    ]
+  },
+  {
+    "id": 56,
+    "arab": "عدشكن",
+    "latin": "kata_56",
+    "translit": "translit_56",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 56",
+      "makna lain 56"
+    ]
+  },
+  {
+    "id": 57,
+    "arab": "تشفشي",
+    "latin": "kata_57",
+    "translit": "translit_57",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 57",
+      "makna lain 57"
+    ]
+  },
+  {
+    "id": 58,
+    "arab": "تقبي",
+    "latin": "kata_58",
+    "translit": "translit_58",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 58",
+      "makna lain 58"
+    ]
+  },
+  {
+    "id": 59,
+    "arab": "كرب",
+    "latin": "kata_59",
+    "translit": "translit_59",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 59",
+      "makna lain 59"
+    ]
+  },
+  {
+    "id": 60,
+    "arab": "ععرت",
+    "latin": "kata_60",
+    "translit": "translit_60",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 60",
+      "makna lain 60"
+    ]
+  },
+  {
+    "id": 61,
+    "arab": "شينك",
+    "latin": "kata_61",
+    "translit": "translit_61",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 61",
+      "makna lain 61"
+    ]
+  },
+  {
+    "id": 62,
+    "arab": "هسعنف",
+    "latin": "kata_62",
+    "translit": "translit_62",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 62",
+      "makna lain 62"
+    ]
+  },
+  {
+    "id": 63,
+    "arab": "ققو",
+    "latin": "kata_63",
+    "translit": "translit_63",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 63",
+      "makna lain 63"
+    ]
+  },
+  {
+    "id": 64,
+    "arab": "سقحتي",
+    "latin": "kata_64",
+    "translit": "translit_64",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 64",
+      "makna lain 64"
+    ]
+  },
+  {
+    "id": 65,
+    "arab": "ررك",
+    "latin": "kata_65",
+    "translit": "translit_65",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 65",
+      "makna lain 65"
+    ]
+  },
+  {
+    "id": 66,
+    "arab": "رههف",
+    "latin": "kata_66",
+    "translit": "translit_66",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 66",
+      "makna lain 66"
+    ]
+  },
+  {
+    "id": 67,
+    "arab": "هعققب",
+    "latin": "kata_67",
+    "translit": "translit_67",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 67",
+      "makna lain 67"
+    ]
+  },
+  {
+    "id": 68,
+    "arab": "عدكوم",
+    "latin": "kata_68",
+    "translit": "translit_68",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 68",
+      "makna lain 68"
+    ]
+  },
+  {
+    "id": 69,
+    "arab": "كععع",
+    "latin": "kata_69",
+    "translit": "translit_69",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 69",
+      "makna lain 69"
+    ]
+  },
+  {
+    "id": 70,
+    "arab": "تقهق",
+    "latin": "kata_70",
+    "translit": "translit_70",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 70",
+      "makna lain 70"
+    ]
+  },
+  {
+    "id": 71,
+    "arab": "يره",
+    "latin": "kata_71",
+    "translit": "translit_71",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 71",
+      "makna lain 71"
+    ]
+  },
+  {
+    "id": 72,
+    "arab": "رههق",
+    "latin": "kata_72",
+    "translit": "translit_72",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 72",
+      "makna lain 72"
+    ]
+  },
+  {
+    "id": 73,
+    "arab": "رودتل",
+    "latin": "kata_73",
+    "translit": "translit_73",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 73",
+      "makna lain 73"
+    ]
+  },
+  {
+    "id": 74,
+    "arab": "فشوبع",
+    "latin": "kata_74",
+    "translit": "translit_74",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 74",
+      "makna lain 74"
+    ]
+  },
+  {
+    "id": 75,
+    "arab": "رشيبب",
+    "latin": "kata_75",
+    "translit": "translit_75",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 75",
+      "makna lain 75"
+    ]
+  },
+  {
+    "id": 76,
+    "arab": "فهلس",
+    "latin": "kata_76",
+    "translit": "translit_76",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 76",
+      "makna lain 76"
+    ]
+  },
+  {
+    "id": 77,
+    "arab": "ربل",
+    "latin": "kata_77",
+    "translit": "translit_77",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 77",
+      "makna lain 77"
+    ]
+  },
+  {
+    "id": 78,
+    "arab": "قلشك",
+    "latin": "kata_78",
+    "translit": "translit_78",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 78",
+      "makna lain 78"
+    ]
+  },
+  {
+    "id": 79,
+    "arab": "ننلب",
+    "latin": "kata_79",
+    "translit": "translit_79",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 79",
+      "makna lain 79"
+    ]
+  },
+  {
+    "id": 80,
+    "arab": "قهه",
+    "latin": "kata_80",
+    "translit": "translit_80",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 80",
+      "makna lain 80"
+    ]
+  },
+  {
+    "id": 81,
+    "arab": "قبرش",
+    "latin": "kata_81",
+    "translit": "translit_81",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 81",
+      "makna lain 81"
+    ]
+  },
+  {
+    "id": 82,
+    "arab": "قهدحب",
+    "latin": "kata_82",
+    "translit": "translit_82",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 82",
+      "makna lain 82"
+    ]
+  },
+  {
+    "id": 83,
+    "arab": "مويلش",
+    "latin": "kata_83",
+    "translit": "translit_83",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 83",
+      "makna lain 83"
+    ]
+  },
+  {
+    "id": 84,
+    "arab": "حيعد",
+    "latin": "kata_84",
+    "translit": "translit_84",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 84",
+      "makna lain 84"
+    ]
+  },
+  {
+    "id": 85,
+    "arab": "شومرع",
+    "latin": "kata_85",
+    "translit": "translit_85",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 85",
+      "makna lain 85"
+    ]
+  },
+  {
+    "id": 86,
+    "arab": "سسدم",
+    "latin": "kata_86",
+    "translit": "translit_86",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 86",
+      "makna lain 86"
+    ]
+  },
+  {
+    "id": 87,
+    "arab": "قمف",
+    "latin": "kata_87",
+    "translit": "translit_87",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 87",
+      "makna lain 87"
+    ]
+  },
+  {
+    "id": 88,
+    "arab": "رهم",
+    "latin": "kata_88",
+    "translit": "translit_88",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 88",
+      "makna lain 88"
+    ]
+  },
+  {
+    "id": 89,
+    "arab": "رفقل",
+    "latin": "kata_89",
+    "translit": "translit_89",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 89",
+      "makna lain 89"
+    ]
+  },
+  {
+    "id": 90,
+    "arab": "وتفت",
+    "latin": "kata_90",
+    "translit": "translit_90",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 90",
+      "makna lain 90"
+    ]
+  },
+  {
+    "id": 91,
+    "arab": "يرتف",
+    "latin": "kata_91",
+    "translit": "translit_91",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 91",
+      "makna lain 91"
+    ]
+  },
+  {
+    "id": 92,
+    "arab": "سلبب",
+    "latin": "kata_92",
+    "translit": "translit_92",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 92",
+      "makna lain 92"
+    ]
+  },
+  {
+    "id": 93,
+    "arab": "فور",
+    "latin": "kata_93",
+    "translit": "translit_93",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 93",
+      "makna lain 93"
+    ]
+  },
+  {
+    "id": 94,
+    "arab": "تنشبس",
+    "latin": "kata_94",
+    "translit": "translit_94",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 94",
+      "makna lain 94"
+    ]
+  },
+  {
+    "id": 95,
+    "arab": "تنقمع",
+    "latin": "kata_95",
+    "translit": "translit_95",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 95",
+      "makna lain 95"
+    ]
+  },
+  {
+    "id": 96,
+    "arab": "روكي",
+    "latin": "kata_96",
+    "translit": "translit_96",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 96",
+      "makna lain 96"
+    ]
+  },
+  {
+    "id": 97,
+    "arab": "رسهمل",
+    "latin": "kata_97",
+    "translit": "translit_97",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 97",
+      "makna lain 97"
+    ]
+  },
+  {
+    "id": 98,
+    "arab": "رفهل",
+    "latin": "kata_98",
+    "translit": "translit_98",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 98",
+      "makna lain 98"
+    ]
+  },
+  {
+    "id": 99,
+    "arab": "حسس",
+    "latin": "kata_99",
+    "translit": "translit_99",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 99",
+      "makna lain 99"
+    ]
+  },
+  {
+    "id": 100,
+    "arab": "شسلد",
+    "latin": "kata_100",
+    "translit": "translit_100",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 100",
+      "makna lain 100"
+    ]
+  },
+  {
+    "id": 101,
+    "arab": "بففتح",
+    "latin": "kata_101",
+    "translit": "translit_101",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 101",
+      "makna lain 101"
+    ]
+  },
+  {
+    "id": 102,
+    "arab": "لريك",
+    "latin": "kata_102",
+    "translit": "translit_102",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 102",
+      "makna lain 102"
+    ]
+  },
+  {
+    "id": 103,
+    "arab": "يبد",
+    "latin": "kata_103",
+    "translit": "translit_103",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 103",
+      "makna lain 103"
+    ]
+  },
+  {
+    "id": 104,
+    "arab": "يلدك",
+    "latin": "kata_104",
+    "translit": "translit_104",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 104",
+      "makna lain 104"
+    ]
+  },
+  {
+    "id": 105,
+    "arab": "هلهنه",
+    "latin": "kata_105",
+    "translit": "translit_105",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 105",
+      "makna lain 105"
+    ]
+  },
+  {
+    "id": 106,
+    "arab": "عحي",
+    "latin": "kata_106",
+    "translit": "translit_106",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 106",
+      "makna lain 106"
+    ]
+  },
+  {
+    "id": 107,
+    "arab": "دمهعو",
+    "latin": "kata_107",
+    "translit": "translit_107",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 107",
+      "makna lain 107"
+    ]
+  },
+  {
+    "id": 108,
+    "arab": "تتسس",
+    "latin": "kata_108",
+    "translit": "translit_108",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 108",
+      "makna lain 108"
+    ]
+  },
+  {
+    "id": 109,
+    "arab": "تحفو",
+    "latin": "kata_109",
+    "translit": "translit_109",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 109",
+      "makna lain 109"
+    ]
+  },
+  {
+    "id": 110,
+    "arab": "رشت",
+    "latin": "kata_110",
+    "translit": "translit_110",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 110",
+      "makna lain 110"
+    ]
+  },
+  {
+    "id": 111,
+    "arab": "فهش",
+    "latin": "kata_111",
+    "translit": "translit_111",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 111",
+      "makna lain 111"
+    ]
+  },
+  {
+    "id": 112,
+    "arab": "بدشب",
+    "latin": "kata_112",
+    "translit": "translit_112",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 112",
+      "makna lain 112"
+    ]
+  },
+  {
+    "id": 113,
+    "arab": "هوي",
+    "latin": "kata_113",
+    "translit": "translit_113",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 113",
+      "makna lain 113"
+    ]
+  },
+  {
+    "id": 114,
+    "arab": "رفهوت",
+    "latin": "kata_114",
+    "translit": "translit_114",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 114",
+      "makna lain 114"
+    ]
+  },
+  {
+    "id": 115,
+    "arab": "دحم",
+    "latin": "kata_115",
+    "translit": "translit_115",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 115",
+      "makna lain 115"
+    ]
+  },
+  {
+    "id": 116,
+    "arab": "رودع",
+    "latin": "kata_116",
+    "translit": "translit_116",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 116",
+      "makna lain 116"
+    ]
+  },
+  {
+    "id": 117,
+    "arab": "سحش",
+    "latin": "kata_117",
+    "translit": "translit_117",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 117",
+      "makna lain 117"
+    ]
+  },
+  {
+    "id": 118,
+    "arab": "حععنت",
+    "latin": "kata_118",
+    "translit": "translit_118",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 118",
+      "makna lain 118"
+    ]
+  },
+  {
+    "id": 119,
+    "arab": "هقش",
+    "latin": "kata_119",
+    "translit": "translit_119",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 119",
+      "makna lain 119"
+    ]
+  },
+  {
+    "id": 120,
+    "arab": "قدتي",
+    "latin": "kata_120",
+    "translit": "translit_120",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 120",
+      "makna lain 120"
+    ]
+  },
+  {
+    "id": 121,
+    "arab": "وحديق",
+    "latin": "kata_121",
+    "translit": "translit_121",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 121",
+      "makna lain 121"
+    ]
+  },
+  {
+    "id": 122,
+    "arab": "رححشش",
+    "latin": "kata_122",
+    "translit": "translit_122",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 122",
+      "makna lain 122"
+    ]
+  },
+  {
+    "id": 123,
+    "arab": "قسلوت",
+    "latin": "kata_123",
+    "translit": "translit_123",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 123",
+      "makna lain 123"
+    ]
+  },
+  {
+    "id": 124,
+    "arab": "دلشود",
+    "latin": "kata_124",
+    "translit": "translit_124",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 124",
+      "makna lain 124"
+    ]
+  },
+  {
+    "id": 125,
+    "arab": "فهه",
+    "latin": "kata_125",
+    "translit": "translit_125",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 125",
+      "makna lain 125"
+    ]
+  },
+  {
+    "id": 126,
+    "arab": "بحهت",
+    "latin": "kata_126",
+    "translit": "translit_126",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 126",
+      "makna lain 126"
+    ]
+  },
+  {
+    "id": 127,
+    "arab": "يهل",
+    "latin": "kata_127",
+    "translit": "translit_127",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 127",
+      "makna lain 127"
+    ]
+  },
+  {
+    "id": 128,
+    "arab": "ففبهق",
+    "latin": "kata_128",
+    "translit": "translit_128",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 128",
+      "makna lain 128"
+    ]
+  },
+  {
+    "id": 129,
+    "arab": "يهنر",
+    "latin": "kata_129",
+    "translit": "translit_129",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 129",
+      "makna lain 129"
+    ]
+  },
+  {
+    "id": 130,
+    "arab": "وهبهك",
+    "latin": "kata_130",
+    "translit": "translit_130",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 130",
+      "makna lain 130"
+    ]
+  },
+  {
+    "id": 131,
+    "arab": "تهت",
+    "latin": "kata_131",
+    "translit": "translit_131",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 131",
+      "makna lain 131"
+    ]
+  },
+  {
+    "id": 132,
+    "arab": "عرلتم",
+    "latin": "kata_132",
+    "translit": "translit_132",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 132",
+      "makna lain 132"
+    ]
+  },
+  {
+    "id": 133,
+    "arab": "شيل",
+    "latin": "kata_133",
+    "translit": "translit_133",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 133",
+      "makna lain 133"
+    ]
+  },
+  {
+    "id": 134,
+    "arab": "حبش",
+    "latin": "kata_134",
+    "translit": "translit_134",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 134",
+      "makna lain 134"
+    ]
+  },
+  {
+    "id": 135,
+    "arab": "ردف",
+    "latin": "kata_135",
+    "translit": "translit_135",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 135",
+      "makna lain 135"
+    ]
+  },
+  {
+    "id": 136,
+    "arab": "لرو",
+    "latin": "kata_136",
+    "translit": "translit_136",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 136",
+      "makna lain 136"
+    ]
+  },
+  {
+    "id": 137,
+    "arab": "دوممق",
+    "latin": "kata_137",
+    "translit": "translit_137",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 137",
+      "makna lain 137"
+    ]
+  },
+  {
+    "id": 138,
+    "arab": "روت",
+    "latin": "kata_138",
+    "translit": "translit_138",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 138",
+      "makna lain 138"
+    ]
+  },
+  {
+    "id": 139,
+    "arab": "بفحد",
+    "latin": "kata_139",
+    "translit": "translit_139",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 139",
+      "makna lain 139"
+    ]
+  },
+  {
+    "id": 140,
+    "arab": "دبعو",
+    "latin": "kata_140",
+    "translit": "translit_140",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 140",
+      "makna lain 140"
+    ]
+  },
+  {
+    "id": 141,
+    "arab": "نتش",
+    "latin": "kata_141",
+    "translit": "translit_141",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 141",
+      "makna lain 141"
+    ]
+  },
+  {
+    "id": 142,
+    "arab": "قسمه",
+    "latin": "kata_142",
+    "translit": "translit_142",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 142",
+      "makna lain 142"
+    ]
+  },
+  {
+    "id": 143,
+    "arab": "لير",
+    "latin": "kata_143",
+    "translit": "translit_143",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 143",
+      "makna lain 143"
+    ]
+  },
+  {
+    "id": 144,
+    "arab": "ييق",
+    "latin": "kata_144",
+    "translit": "translit_144",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 144",
+      "makna lain 144"
+    ]
+  },
+  {
+    "id": 145,
+    "arab": "يعر",
+    "latin": "kata_145",
+    "translit": "translit_145",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 145",
+      "makna lain 145"
+    ]
+  },
+  {
+    "id": 146,
+    "arab": "هست",
+    "latin": "kata_146",
+    "translit": "translit_146",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 146",
+      "makna lain 146"
+    ]
+  },
+  {
+    "id": 147,
+    "arab": "قشي",
+    "latin": "kata_147",
+    "translit": "translit_147",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 147",
+      "makna lain 147"
+    ]
+  },
+  {
+    "id": 148,
+    "arab": "يتف",
+    "latin": "kata_148",
+    "translit": "translit_148",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 148",
+      "makna lain 148"
+    ]
+  },
+  {
+    "id": 149,
+    "arab": "عنه",
+    "latin": "kata_149",
+    "translit": "translit_149",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 149",
+      "makna lain 149"
+    ]
+  },
+  {
+    "id": 150,
+    "arab": "حيح",
+    "latin": "kata_150",
+    "translit": "translit_150",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 150",
+      "makna lain 150"
+    ]
+  },
+  {
+    "id": 151,
+    "arab": "هحبه",
+    "latin": "kata_151",
+    "translit": "translit_151",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 151",
+      "makna lain 151"
+    ]
+  },
+  {
+    "id": 152,
+    "arab": "دلمر",
+    "latin": "kata_152",
+    "translit": "translit_152",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 152",
+      "makna lain 152"
+    ]
+  },
+  {
+    "id": 153,
+    "arab": "مدف",
+    "latin": "kata_153",
+    "translit": "translit_153",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 153",
+      "makna lain 153"
+    ]
+  },
+  {
+    "id": 154,
+    "arab": "مدي",
+    "latin": "kata_154",
+    "translit": "translit_154",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 154",
+      "makna lain 154"
+    ]
+  },
+  {
+    "id": 155,
+    "arab": "شبلفر",
+    "latin": "kata_155",
+    "translit": "translit_155",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 155",
+      "makna lain 155"
+    ]
+  },
+  {
+    "id": 156,
+    "arab": "حكشق",
+    "latin": "kata_156",
+    "translit": "translit_156",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 156",
+      "makna lain 156"
+    ]
+  },
+  {
+    "id": 157,
+    "arab": "دقشحف",
+    "latin": "kata_157",
+    "translit": "translit_157",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 157",
+      "makna lain 157"
+    ]
+  },
+  {
+    "id": 158,
+    "arab": "رققهش",
+    "latin": "kata_158",
+    "translit": "translit_158",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 158",
+      "makna lain 158"
+    ]
+  },
+  {
+    "id": 159,
+    "arab": "يشح",
+    "latin": "kata_159",
+    "translit": "translit_159",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 159",
+      "makna lain 159"
+    ]
+  },
+  {
+    "id": 160,
+    "arab": "تفوكي",
+    "latin": "kata_160",
+    "translit": "translit_160",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 160",
+      "makna lain 160"
+    ]
+  },
+  {
+    "id": 161,
+    "arab": "همبفش",
+    "latin": "kata_161",
+    "translit": "translit_161",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 161",
+      "makna lain 161"
+    ]
+  },
+  {
+    "id": 162,
+    "arab": "شبع",
+    "latin": "kata_162",
+    "translit": "translit_162",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 162",
+      "makna lain 162"
+    ]
+  },
+  {
+    "id": 163,
+    "arab": "ونوم",
+    "latin": "kata_163",
+    "translit": "translit_163",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 163",
+      "makna lain 163"
+    ]
+  },
+  {
+    "id": 164,
+    "arab": "مشرف",
+    "latin": "kata_164",
+    "translit": "translit_164",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 164",
+      "makna lain 164"
+    ]
+  },
+  {
+    "id": 165,
+    "arab": "تعبكر",
+    "latin": "kata_165",
+    "translit": "translit_165",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 165",
+      "makna lain 165"
+    ]
+  },
+  {
+    "id": 166,
+    "arab": "سدوبم",
+    "latin": "kata_166",
+    "translit": "translit_166",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 166",
+      "makna lain 166"
+    ]
+  },
+  {
+    "id": 167,
+    "arab": "تهبعل",
+    "latin": "kata_167",
+    "translit": "translit_167",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 167",
+      "makna lain 167"
+    ]
+  },
+  {
+    "id": 168,
+    "arab": "لنش",
+    "latin": "kata_168",
+    "translit": "translit_168",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 168",
+      "makna lain 168"
+    ]
+  },
+  {
+    "id": 169,
+    "arab": "وهيوي",
+    "latin": "kata_169",
+    "translit": "translit_169",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 169",
+      "makna lain 169"
+    ]
+  },
+  {
+    "id": 170,
+    "arab": "لووشك",
+    "latin": "kata_170",
+    "translit": "translit_170",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 170",
+      "makna lain 170"
+    ]
+  },
+  {
+    "id": 171,
+    "arab": "لشعه",
+    "latin": "kata_171",
+    "translit": "translit_171",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 171",
+      "makna lain 171"
+    ]
+  },
+  {
+    "id": 172,
+    "arab": "تيدوب",
+    "latin": "kata_172",
+    "translit": "translit_172",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 172",
+      "makna lain 172"
+    ]
+  },
+  {
+    "id": 173,
+    "arab": "ديقب",
+    "latin": "kata_173",
+    "translit": "translit_173",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 173",
+      "makna lain 173"
+    ]
+  },
+  {
+    "id": 174,
+    "arab": "ونمح",
+    "latin": "kata_174",
+    "translit": "translit_174",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 174",
+      "makna lain 174"
+    ]
+  },
+  {
+    "id": 175,
+    "arab": "وبكم",
+    "latin": "kata_175",
+    "translit": "translit_175",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 175",
+      "makna lain 175"
+    ]
+  },
+  {
+    "id": 176,
+    "arab": "هفق",
+    "latin": "kata_176",
+    "translit": "translit_176",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 176",
+      "makna lain 176"
+    ]
+  },
+  {
+    "id": 177,
+    "arab": "تنكسك",
+    "latin": "kata_177",
+    "translit": "translit_177",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 177",
+      "makna lain 177"
+    ]
+  },
+  {
+    "id": 178,
+    "arab": "وهفدل",
+    "latin": "kata_178",
+    "translit": "translit_178",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 178",
+      "makna lain 178"
+    ]
+  },
+  {
+    "id": 179,
+    "arab": "مرعنر",
+    "latin": "kata_179",
+    "translit": "translit_179",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 179",
+      "makna lain 179"
+    ]
+  },
+  {
+    "id": 180,
+    "arab": "هكهي",
+    "latin": "kata_180",
+    "translit": "translit_180",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 180",
+      "makna lain 180"
+    ]
+  },
+  {
+    "id": 181,
+    "arab": "شمرسح",
+    "latin": "kata_181",
+    "translit": "translit_181",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 181",
+      "makna lain 181"
+    ]
+  },
+  {
+    "id": 182,
+    "arab": "ملد",
+    "latin": "kata_182",
+    "translit": "translit_182",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 182",
+      "makna lain 182"
+    ]
+  },
+  {
+    "id": 183,
+    "arab": "قفنك",
+    "latin": "kata_183",
+    "translit": "translit_183",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 183",
+      "makna lain 183"
+    ]
+  },
+  {
+    "id": 184,
+    "arab": "فوه",
+    "latin": "kata_184",
+    "translit": "translit_184",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 184",
+      "makna lain 184"
+    ]
+  },
+  {
+    "id": 185,
+    "arab": "مددكع",
+    "latin": "kata_185",
+    "translit": "translit_185",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 185",
+      "makna lain 185"
+    ]
+  },
+  {
+    "id": 186,
+    "arab": "سكد",
+    "latin": "kata_186",
+    "translit": "translit_186",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 186",
+      "makna lain 186"
+    ]
+  },
+  {
+    "id": 187,
+    "arab": "فرفتو",
+    "latin": "kata_187",
+    "translit": "translit_187",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 187",
+      "makna lain 187"
+    ]
+  },
+  {
+    "id": 188,
+    "arab": "سلر",
+    "latin": "kata_188",
+    "translit": "translit_188",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 188",
+      "makna lain 188"
+    ]
+  },
+  {
+    "id": 189,
+    "arab": "عفش",
+    "latin": "kata_189",
+    "translit": "translit_189",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 189",
+      "makna lain 189"
+    ]
+  },
+  {
+    "id": 190,
+    "arab": "كققك",
+    "latin": "kata_190",
+    "translit": "translit_190",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 190",
+      "makna lain 190"
+    ]
+  },
+  {
+    "id": 191,
+    "arab": "محع",
+    "latin": "kata_191",
+    "translit": "translit_191",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 191",
+      "makna lain 191"
+    ]
+  },
+  {
+    "id": 192,
+    "arab": "عهومف",
+    "latin": "kata_192",
+    "translit": "translit_192",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 192",
+      "makna lain 192"
+    ]
+  },
+  {
+    "id": 193,
+    "arab": "بتدبب",
+    "latin": "kata_193",
+    "translit": "translit_193",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 193",
+      "makna lain 193"
+    ]
+  },
+  {
+    "id": 194,
+    "arab": "فبدمد",
+    "latin": "kata_194",
+    "translit": "translit_194",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 194",
+      "makna lain 194"
+    ]
+  },
+  {
+    "id": 195,
+    "arab": "بونون",
+    "latin": "kata_195",
+    "translit": "translit_195",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 195",
+      "makna lain 195"
+    ]
+  },
+  {
+    "id": 196,
+    "arab": "رنبحو",
+    "latin": "kata_196",
+    "translit": "translit_196",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 196",
+      "makna lain 196"
+    ]
+  },
+  {
+    "id": 197,
+    "arab": "سكشش",
+    "latin": "kata_197",
+    "translit": "translit_197",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 197",
+      "makna lain 197"
+    ]
+  },
+  {
+    "id": 198,
+    "arab": "تدنن",
+    "latin": "kata_198",
+    "translit": "translit_198",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 198",
+      "makna lain 198"
+    ]
+  },
+  {
+    "id": 199,
+    "arab": "يقرنق",
+    "latin": "kata_199",
+    "translit": "translit_199",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 199",
+      "makna lain 199"
+    ]
+  },
+  {
+    "id": 200,
+    "arab": "لنم",
+    "latin": "kata_200",
+    "translit": "translit_200",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 200",
+      "makna lain 200"
+    ]
+  },
+  {
+    "id": 201,
+    "arab": "كبفف",
+    "latin": "kata_201",
+    "translit": "translit_201",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 201",
+      "makna lain 201"
+    ]
+  },
+  {
+    "id": 202,
+    "arab": "نكيين",
+    "latin": "kata_202",
+    "translit": "translit_202",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 202",
+      "makna lain 202"
+    ]
+  },
+  {
+    "id": 203,
+    "arab": "كتد",
+    "latin": "kata_203",
+    "translit": "translit_203",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 203",
+      "makna lain 203"
+    ]
+  },
+  {
+    "id": 204,
+    "arab": "شتكحي",
+    "latin": "kata_204",
+    "translit": "translit_204",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 204",
+      "makna lain 204"
+    ]
+  },
+  {
+    "id": 205,
+    "arab": "هشو",
+    "latin": "kata_205",
+    "translit": "translit_205",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 205",
+      "makna lain 205"
+    ]
+  },
+  {
+    "id": 206,
+    "arab": "دعن",
+    "latin": "kata_206",
+    "translit": "translit_206",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 206",
+      "makna lain 206"
+    ]
+  },
+  {
+    "id": 207,
+    "arab": "فيمتع",
+    "latin": "kata_207",
+    "translit": "translit_207",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 207",
+      "makna lain 207"
+    ]
+  },
+  {
+    "id": 208,
+    "arab": "فقيدح",
+    "latin": "kata_208",
+    "translit": "translit_208",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 208",
+      "makna lain 208"
+    ]
+  },
+  {
+    "id": 209,
+    "arab": "قحمفل",
+    "latin": "kata_209",
+    "translit": "translit_209",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 209",
+      "makna lain 209"
+    ]
+  },
+  {
+    "id": 210,
+    "arab": "مبكر",
+    "latin": "kata_210",
+    "translit": "translit_210",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 210",
+      "makna lain 210"
+    ]
+  },
+  {
+    "id": 211,
+    "arab": "سددع",
+    "latin": "kata_211",
+    "translit": "translit_211",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 211",
+      "makna lain 211"
+    ]
+  },
+  {
+    "id": 212,
+    "arab": "لتفم",
+    "latin": "kata_212",
+    "translit": "translit_212",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 212",
+      "makna lain 212"
+    ]
+  },
+  {
+    "id": 213,
+    "arab": "ببفشح",
+    "latin": "kata_213",
+    "translit": "translit_213",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 213",
+      "makna lain 213"
+    ]
+  },
+  {
+    "id": 214,
+    "arab": "حدك",
+    "latin": "kata_214",
+    "translit": "translit_214",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 214",
+      "makna lain 214"
+    ]
+  },
+  {
+    "id": 215,
+    "arab": "تهه",
+    "latin": "kata_215",
+    "translit": "translit_215",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 215",
+      "makna lain 215"
+    ]
+  },
+  {
+    "id": 216,
+    "arab": "نسر",
+    "latin": "kata_216",
+    "translit": "translit_216",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 216",
+      "makna lain 216"
+    ]
+  },
+  {
+    "id": 217,
+    "arab": "يلهرن",
+    "latin": "kata_217",
+    "translit": "translit_217",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 217",
+      "makna lain 217"
+    ]
+  },
+  {
+    "id": 218,
+    "arab": "ستم",
+    "latin": "kata_218",
+    "translit": "translit_218",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 218",
+      "makna lain 218"
+    ]
+  },
+  {
+    "id": 219,
+    "arab": "حفحسب",
+    "latin": "kata_219",
+    "translit": "translit_219",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 219",
+      "makna lain 219"
+    ]
+  },
+  {
+    "id": 220,
+    "arab": "ستشلل",
+    "latin": "kata_220",
+    "translit": "translit_220",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 220",
+      "makna lain 220"
+    ]
+  },
+  {
+    "id": 221,
+    "arab": "عحل",
+    "latin": "kata_221",
+    "translit": "translit_221",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 221",
+      "makna lain 221"
+    ]
+  },
+  {
+    "id": 222,
+    "arab": "نهف",
+    "latin": "kata_222",
+    "translit": "translit_222",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 222",
+      "makna lain 222"
+    ]
+  },
+  {
+    "id": 223,
+    "arab": "لتحمع",
+    "latin": "kata_223",
+    "translit": "translit_223",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 223",
+      "makna lain 223"
+    ]
+  },
+  {
+    "id": 224,
+    "arab": "دعهد",
+    "latin": "kata_224",
+    "translit": "translit_224",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 224",
+      "makna lain 224"
+    ]
+  },
+  {
+    "id": 225,
+    "arab": "سهوتر",
+    "latin": "kata_225",
+    "translit": "translit_225",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 225",
+      "makna lain 225"
+    ]
+  },
+  {
+    "id": 226,
+    "arab": "نني",
+    "latin": "kata_226",
+    "translit": "translit_226",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 226",
+      "makna lain 226"
+    ]
+  },
+  {
+    "id": 227,
+    "arab": "حكي",
+    "latin": "kata_227",
+    "translit": "translit_227",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 227",
+      "makna lain 227"
+    ]
+  },
+  {
+    "id": 228,
+    "arab": "لقو",
+    "latin": "kata_228",
+    "translit": "translit_228",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 228",
+      "makna lain 228"
+    ]
+  },
+  {
+    "id": 229,
+    "arab": "قلل",
+    "latin": "kata_229",
+    "translit": "translit_229",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 229",
+      "makna lain 229"
+    ]
+  },
+  {
+    "id": 230,
+    "arab": "تلبتت",
+    "latin": "kata_230",
+    "translit": "translit_230",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 230",
+      "makna lain 230"
+    ]
+  },
+  {
+    "id": 231,
+    "arab": "رمشهي",
+    "latin": "kata_231",
+    "translit": "translit_231",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 231",
+      "makna lain 231"
+    ]
+  },
+  {
+    "id": 232,
+    "arab": "بعبل",
+    "latin": "kata_232",
+    "translit": "translit_232",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 232",
+      "makna lain 232"
+    ]
+  },
+  {
+    "id": 233,
+    "arab": "شحدحل",
+    "latin": "kata_233",
+    "translit": "translit_233",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 233",
+      "makna lain 233"
+    ]
+  },
+  {
+    "id": 234,
+    "arab": "سلف",
+    "latin": "kata_234",
+    "translit": "translit_234",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 234",
+      "makna lain 234"
+    ]
+  },
+  {
+    "id": 235,
+    "arab": "رتع",
+    "latin": "kata_235",
+    "translit": "translit_235",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 235",
+      "makna lain 235"
+    ]
+  },
+  {
+    "id": 236,
+    "arab": "قلهر",
+    "latin": "kata_236",
+    "translit": "translit_236",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 236",
+      "makna lain 236"
+    ]
+  },
+  {
+    "id": 237,
+    "arab": "يففني",
+    "latin": "kata_237",
+    "translit": "translit_237",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 237",
+      "makna lain 237"
+    ]
+  },
+  {
+    "id": 238,
+    "arab": "عقق",
+    "latin": "kata_238",
+    "translit": "translit_238",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 238",
+      "makna lain 238"
+    ]
+  },
+  {
+    "id": 239,
+    "arab": "تحشب",
+    "latin": "kata_239",
+    "translit": "translit_239",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 239",
+      "makna lain 239"
+    ]
+  },
+  {
+    "id": 240,
+    "arab": "يبفكك",
+    "latin": "kata_240",
+    "translit": "translit_240",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 240",
+      "makna lain 240"
+    ]
+  },
+  {
+    "id": 241,
+    "arab": "سدبر",
+    "latin": "kata_241",
+    "translit": "translit_241",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 241",
+      "makna lain 241"
+    ]
+  },
+  {
+    "id": 242,
+    "arab": "ومعب",
+    "latin": "kata_242",
+    "translit": "translit_242",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 242",
+      "makna lain 242"
+    ]
+  },
+  {
+    "id": 243,
+    "arab": "سبده",
+    "latin": "kata_243",
+    "translit": "translit_243",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 243",
+      "makna lain 243"
+    ]
+  },
+  {
+    "id": 244,
+    "arab": "وتهم",
+    "latin": "kata_244",
+    "translit": "translit_244",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 244",
+      "makna lain 244"
+    ]
+  },
+  {
+    "id": 245,
+    "arab": "ششمش",
+    "latin": "kata_245",
+    "translit": "translit_245",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 245",
+      "makna lain 245"
+    ]
+  },
+  {
+    "id": 246,
+    "arab": "قدحكف",
+    "latin": "kata_246",
+    "translit": "translit_246",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 246",
+      "makna lain 246"
+    ]
+  },
+  {
+    "id": 247,
+    "arab": "ممععف",
+    "latin": "kata_247",
+    "translit": "translit_247",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 247",
+      "makna lain 247"
+    ]
+  },
+  {
+    "id": 248,
+    "arab": "هربق",
+    "latin": "kata_248",
+    "translit": "translit_248",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 248",
+      "makna lain 248"
+    ]
+  },
+  {
+    "id": 249,
+    "arab": "كيكس",
+    "latin": "kata_249",
+    "translit": "translit_249",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 249",
+      "makna lain 249"
+    ]
+  },
+  {
+    "id": 250,
+    "arab": "وهعده",
+    "latin": "kata_250",
+    "translit": "translit_250",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 250",
+      "makna lain 250"
+    ]
+  },
+  {
+    "id": 251,
+    "arab": "قحح",
+    "latin": "kata_251",
+    "translit": "translit_251",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 251",
+      "makna lain 251"
+    ]
+  },
+  {
+    "id": 252,
+    "arab": "قيسهي",
+    "latin": "kata_252",
+    "translit": "translit_252",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 252",
+      "makna lain 252"
+    ]
+  },
+  {
+    "id": 253,
+    "arab": "فدبو",
+    "latin": "kata_253",
+    "translit": "translit_253",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 253",
+      "makna lain 253"
+    ]
+  },
+  {
+    "id": 254,
+    "arab": "نلشرم",
+    "latin": "kata_254",
+    "translit": "translit_254",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 254",
+      "makna lain 254"
+    ]
+  },
+  {
+    "id": 255,
+    "arab": "قفملب",
+    "latin": "kata_255",
+    "translit": "translit_255",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 255",
+      "makna lain 255"
+    ]
+  },
+  {
+    "id": 256,
+    "arab": "دتيع",
+    "latin": "kata_256",
+    "translit": "translit_256",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 256",
+      "makna lain 256"
+    ]
+  },
+  {
+    "id": 257,
+    "arab": "قوكن",
+    "latin": "kata_257",
+    "translit": "translit_257",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 257",
+      "makna lain 257"
+    ]
+  },
+  {
+    "id": 258,
+    "arab": "موو",
+    "latin": "kata_258",
+    "translit": "translit_258",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 258",
+      "makna lain 258"
+    ]
+  },
+  {
+    "id": 259,
+    "arab": "سفععس",
+    "latin": "kata_259",
+    "translit": "translit_259",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 259",
+      "makna lain 259"
+    ]
+  },
+  {
+    "id": 260,
+    "arab": "نشس",
+    "latin": "kata_260",
+    "translit": "translit_260",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 260",
+      "makna lain 260"
+    ]
+  },
+  {
+    "id": 261,
+    "arab": "شككم",
+    "latin": "kata_261",
+    "translit": "translit_261",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 261",
+      "makna lain 261"
+    ]
+  },
+  {
+    "id": 262,
+    "arab": "رسشش",
+    "latin": "kata_262",
+    "translit": "translit_262",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 262",
+      "makna lain 262"
+    ]
+  },
+  {
+    "id": 263,
+    "arab": "شهم",
+    "latin": "kata_263",
+    "translit": "translit_263",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 263",
+      "makna lain 263"
+    ]
+  },
+  {
+    "id": 264,
+    "arab": "سكدسل",
+    "latin": "kata_264",
+    "translit": "translit_264",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 264",
+      "makna lain 264"
+    ]
+  },
+  {
+    "id": 265,
+    "arab": "يعقكق",
+    "latin": "kata_265",
+    "translit": "translit_265",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 265",
+      "makna lain 265"
+    ]
+  },
+  {
+    "id": 266,
+    "arab": "هبدف",
+    "latin": "kata_266",
+    "translit": "translit_266",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 266",
+      "makna lain 266"
+    ]
+  },
+  {
+    "id": 267,
+    "arab": "بحكلن",
+    "latin": "kata_267",
+    "translit": "translit_267",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 267",
+      "makna lain 267"
+    ]
+  },
+  {
+    "id": 268,
+    "arab": "عفك",
+    "latin": "kata_268",
+    "translit": "translit_268",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 268",
+      "makna lain 268"
+    ]
+  },
+  {
+    "id": 269,
+    "arab": "بين",
+    "latin": "kata_269",
+    "translit": "translit_269",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 269",
+      "makna lain 269"
+    ]
+  },
+  {
+    "id": 270,
+    "arab": "هيدر",
+    "latin": "kata_270",
+    "translit": "translit_270",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 270",
+      "makna lain 270"
+    ]
+  },
+  {
+    "id": 271,
+    "arab": "شدسسش",
+    "latin": "kata_271",
+    "translit": "translit_271",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 271",
+      "makna lain 271"
+    ]
+  },
+  {
+    "id": 272,
+    "arab": "فبقعه",
+    "latin": "kata_272",
+    "translit": "translit_272",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 272",
+      "makna lain 272"
+    ]
+  },
+  {
+    "id": 273,
+    "arab": "محب",
+    "latin": "kata_273",
+    "translit": "translit_273",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 273",
+      "makna lain 273"
+    ]
+  },
+  {
+    "id": 274,
+    "arab": "عيرشت",
+    "latin": "kata_274",
+    "translit": "translit_274",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 274",
+      "makna lain 274"
+    ]
+  },
+  {
+    "id": 275,
+    "arab": "ققق",
+    "latin": "kata_275",
+    "translit": "translit_275",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 275",
+      "makna lain 275"
+    ]
+  },
+  {
+    "id": 276,
+    "arab": "حمفيح",
+    "latin": "kata_276",
+    "translit": "translit_276",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 276",
+      "makna lain 276"
+    ]
+  },
+  {
+    "id": 277,
+    "arab": "كعفيم",
+    "latin": "kata_277",
+    "translit": "translit_277",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 277",
+      "makna lain 277"
+    ]
+  },
+  {
+    "id": 278,
+    "arab": "شحفقح",
+    "latin": "kata_278",
+    "translit": "translit_278",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 278",
+      "makna lain 278"
+    ]
+  },
+  {
+    "id": 279,
+    "arab": "هدلرس",
+    "latin": "kata_279",
+    "translit": "translit_279",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 279",
+      "makna lain 279"
+    ]
+  },
+  {
+    "id": 280,
+    "arab": "سكو",
+    "latin": "kata_280",
+    "translit": "translit_280",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 280",
+      "makna lain 280"
+    ]
+  },
+  {
+    "id": 281,
+    "arab": "ليسه",
+    "latin": "kata_281",
+    "translit": "translit_281",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 281",
+      "makna lain 281"
+    ]
+  },
+  {
+    "id": 282,
+    "arab": "قشت",
+    "latin": "kata_282",
+    "translit": "translit_282",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 282",
+      "makna lain 282"
+    ]
+  },
+  {
+    "id": 283,
+    "arab": "مدمع",
+    "latin": "kata_283",
+    "translit": "translit_283",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 283",
+      "makna lain 283"
+    ]
+  },
+  {
+    "id": 284,
+    "arab": "ستف",
+    "latin": "kata_284",
+    "translit": "translit_284",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 284",
+      "makna lain 284"
+    ]
+  },
+  {
+    "id": 285,
+    "arab": "يتكبد",
+    "latin": "kata_285",
+    "translit": "translit_285",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 285",
+      "makna lain 285"
+    ]
+  },
+  {
+    "id": 286,
+    "arab": "نفسش",
+    "latin": "kata_286",
+    "translit": "translit_286",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 286",
+      "makna lain 286"
+    ]
+  },
+  {
+    "id": 287,
+    "arab": "حككن",
+    "latin": "kata_287",
+    "translit": "translit_287",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 287",
+      "makna lain 287"
+    ]
+  },
+  {
+    "id": 288,
+    "arab": "حهن",
+    "latin": "kata_288",
+    "translit": "translit_288",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 288",
+      "makna lain 288"
+    ]
+  },
+  {
+    "id": 289,
+    "arab": "كرح",
+    "latin": "kata_289",
+    "translit": "translit_289",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 289",
+      "makna lain 289"
+    ]
+  },
+  {
+    "id": 290,
+    "arab": "يملوو",
+    "latin": "kata_290",
+    "translit": "translit_290",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 290",
+      "makna lain 290"
+    ]
+  },
+  {
+    "id": 291,
+    "arab": "ومق",
+    "latin": "kata_291",
+    "translit": "translit_291",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 291",
+      "makna lain 291"
+    ]
+  },
+  {
+    "id": 292,
+    "arab": "كنشحش",
+    "latin": "kata_292",
+    "translit": "translit_292",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 292",
+      "makna lain 292"
+    ]
+  },
+  {
+    "id": 293,
+    "arab": "عهي",
+    "latin": "kata_293",
+    "translit": "translit_293",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 293",
+      "makna lain 293"
+    ]
+  },
+  {
+    "id": 294,
+    "arab": "دمم",
+    "latin": "kata_294",
+    "translit": "translit_294",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 294",
+      "makna lain 294"
+    ]
+  },
+  {
+    "id": 295,
+    "arab": "رميرل",
+    "latin": "kata_295",
+    "translit": "translit_295",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 295",
+      "makna lain 295"
+    ]
+  },
+  {
+    "id": 296,
+    "arab": "رسوف",
+    "latin": "kata_296",
+    "translit": "translit_296",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 296",
+      "makna lain 296"
+    ]
+  },
+  {
+    "id": 297,
+    "arab": "قحه",
+    "latin": "kata_297",
+    "translit": "translit_297",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 297",
+      "makna lain 297"
+    ]
+  },
+  {
+    "id": 298,
+    "arab": "فحملق",
+    "latin": "kata_298",
+    "translit": "translit_298",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 298",
+      "makna lain 298"
+    ]
+  },
+  {
+    "id": 299,
+    "arab": "تحلك",
+    "latin": "kata_299",
+    "translit": "translit_299",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 299",
+      "makna lain 299"
+    ]
+  },
+  {
+    "id": 300,
+    "arab": "كرتسم",
+    "latin": "kata_300",
+    "translit": "translit_300",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 300",
+      "makna lain 300"
+    ]
+  },
+  {
+    "id": 301,
+    "arab": "ورم",
+    "latin": "kata_301",
+    "translit": "translit_301",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 301",
+      "makna lain 301"
+    ]
+  },
+  {
+    "id": 302,
+    "arab": "ممشمو",
+    "latin": "kata_302",
+    "translit": "translit_302",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 302",
+      "makna lain 302"
+    ]
+  },
+  {
+    "id": 303,
+    "arab": "تعبي",
+    "latin": "kata_303",
+    "translit": "translit_303",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 303",
+      "makna lain 303"
+    ]
+  },
+  {
+    "id": 304,
+    "arab": "ببو",
+    "latin": "kata_304",
+    "translit": "translit_304",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 304",
+      "makna lain 304"
+    ]
+  },
+  {
+    "id": 305,
+    "arab": "دفتر",
+    "latin": "kata_305",
+    "translit": "translit_305",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 305",
+      "makna lain 305"
+    ]
+  },
+  {
+    "id": 306,
+    "arab": "كشهفب",
+    "latin": "kata_306",
+    "translit": "translit_306",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 306",
+      "makna lain 306"
+    ]
+  },
+  {
+    "id": 307,
+    "arab": "شهشبه",
+    "latin": "kata_307",
+    "translit": "translit_307",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 307",
+      "makna lain 307"
+    ]
+  },
+  {
+    "id": 308,
+    "arab": "حرقم",
+    "latin": "kata_308",
+    "translit": "translit_308",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 308",
+      "makna lain 308"
+    ]
+  },
+  {
+    "id": 309,
+    "arab": "كعربت",
+    "latin": "kata_309",
+    "translit": "translit_309",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 309",
+      "makna lain 309"
+    ]
+  },
+  {
+    "id": 310,
+    "arab": "حتيي",
+    "latin": "kata_310",
+    "translit": "translit_310",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 310",
+      "makna lain 310"
+    ]
+  },
+  {
+    "id": 311,
+    "arab": "عتب",
+    "latin": "kata_311",
+    "translit": "translit_311",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 311",
+      "makna lain 311"
+    ]
+  },
+  {
+    "id": 312,
+    "arab": "حتوش",
+    "latin": "kata_312",
+    "translit": "translit_312",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 312",
+      "makna lain 312"
+    ]
+  },
+  {
+    "id": 313,
+    "arab": "حبندك",
+    "latin": "kata_313",
+    "translit": "translit_313",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 313",
+      "makna lain 313"
+    ]
+  },
+  {
+    "id": 314,
+    "arab": "عتم",
+    "latin": "kata_314",
+    "translit": "translit_314",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 314",
+      "makna lain 314"
+    ]
+  },
+  {
+    "id": 315,
+    "arab": "ويوحن",
+    "latin": "kata_315",
+    "translit": "translit_315",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 315",
+      "makna lain 315"
+    ]
+  },
+  {
+    "id": 316,
+    "arab": "ويهف",
+    "latin": "kata_316",
+    "translit": "translit_316",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 316",
+      "makna lain 316"
+    ]
+  },
+  {
+    "id": 317,
+    "arab": "فمقهع",
+    "latin": "kata_317",
+    "translit": "translit_317",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 317",
+      "makna lain 317"
+    ]
+  },
+  {
+    "id": 318,
+    "arab": "سفسكك",
+    "latin": "kata_318",
+    "translit": "translit_318",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 318",
+      "makna lain 318"
+    ]
+  },
+  {
+    "id": 319,
+    "arab": "قعك",
+    "latin": "kata_319",
+    "translit": "translit_319",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 319",
+      "makna lain 319"
+    ]
+  },
+  {
+    "id": 320,
+    "arab": "محري",
+    "latin": "kata_320",
+    "translit": "translit_320",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 320",
+      "makna lain 320"
+    ]
+  },
+  {
+    "id": 321,
+    "arab": "قوعس",
+    "latin": "kata_321",
+    "translit": "translit_321",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 321",
+      "makna lain 321"
+    ]
+  },
+  {
+    "id": 322,
+    "arab": "ولعت",
+    "latin": "kata_322",
+    "translit": "translit_322",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 322",
+      "makna lain 322"
+    ]
+  },
+  {
+    "id": 323,
+    "arab": "رعتو",
+    "latin": "kata_323",
+    "translit": "translit_323",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 323",
+      "makna lain 323"
+    ]
+  },
+  {
+    "id": 324,
+    "arab": "سوعكف",
+    "latin": "kata_324",
+    "translit": "translit_324",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 324",
+      "makna lain 324"
+    ]
+  },
+  {
+    "id": 325,
+    "arab": "مهكوح",
+    "latin": "kata_325",
+    "translit": "translit_325",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 325",
+      "makna lain 325"
+    ]
+  },
+  {
+    "id": 326,
+    "arab": "عبف",
+    "latin": "kata_326",
+    "translit": "translit_326",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 326",
+      "makna lain 326"
+    ]
+  },
+  {
+    "id": 327,
+    "arab": "لببين",
+    "latin": "kata_327",
+    "translit": "translit_327",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 327",
+      "makna lain 327"
+    ]
+  },
+  {
+    "id": 328,
+    "arab": "حسف",
+    "latin": "kata_328",
+    "translit": "translit_328",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 328",
+      "makna lain 328"
+    ]
+  },
+  {
+    "id": 329,
+    "arab": "بنين",
+    "latin": "kata_329",
+    "translit": "translit_329",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 329",
+      "makna lain 329"
+    ]
+  },
+  {
+    "id": 330,
+    "arab": "تعمبك",
+    "latin": "kata_330",
+    "translit": "translit_330",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 330",
+      "makna lain 330"
+    ]
+  },
+  {
+    "id": 331,
+    "arab": "كني",
+    "latin": "kata_331",
+    "translit": "translit_331",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 331",
+      "makna lain 331"
+    ]
+  },
+  {
+    "id": 332,
+    "arab": "مقرقل",
+    "latin": "kata_332",
+    "translit": "translit_332",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 332",
+      "makna lain 332"
+    ]
+  },
+  {
+    "id": 333,
+    "arab": "سدل",
+    "latin": "kata_333",
+    "translit": "translit_333",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 333",
+      "makna lain 333"
+    ]
+  },
+  {
+    "id": 334,
+    "arab": "قتت",
+    "latin": "kata_334",
+    "translit": "translit_334",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 334",
+      "makna lain 334"
+    ]
+  },
+  {
+    "id": 335,
+    "arab": "مشدك",
+    "latin": "kata_335",
+    "translit": "translit_335",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 335",
+      "makna lain 335"
+    ]
+  },
+  {
+    "id": 336,
+    "arab": "بتو",
+    "latin": "kata_336",
+    "translit": "translit_336",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 336",
+      "makna lain 336"
+    ]
+  },
+  {
+    "id": 337,
+    "arab": "قعر",
+    "latin": "kata_337",
+    "translit": "translit_337",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 337",
+      "makna lain 337"
+    ]
+  },
+  {
+    "id": 338,
+    "arab": "برن",
+    "latin": "kata_338",
+    "translit": "translit_338",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 338",
+      "makna lain 338"
+    ]
+  },
+  {
+    "id": 339,
+    "arab": "بمش",
+    "latin": "kata_339",
+    "translit": "translit_339",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 339",
+      "makna lain 339"
+    ]
+  },
+  {
+    "id": 340,
+    "arab": "نسهك",
+    "latin": "kata_340",
+    "translit": "translit_340",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 340",
+      "makna lain 340"
+    ]
+  },
+  {
+    "id": 341,
+    "arab": "يهعيم",
+    "latin": "kata_341",
+    "translit": "translit_341",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 341",
+      "makna lain 341"
+    ]
+  },
+  {
+    "id": 342,
+    "arab": "شلكب",
+    "latin": "kata_342",
+    "translit": "translit_342",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 342",
+      "makna lain 342"
+    ]
+  },
+  {
+    "id": 343,
+    "arab": "عسهست",
+    "latin": "kata_343",
+    "translit": "translit_343",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 343",
+      "makna lain 343"
+    ]
+  },
+  {
+    "id": 344,
+    "arab": "شتح",
+    "latin": "kata_344",
+    "translit": "translit_344",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 344",
+      "makna lain 344"
+    ]
+  },
+  {
+    "id": 345,
+    "arab": "فلمكت",
+    "latin": "kata_345",
+    "translit": "translit_345",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 345",
+      "makna lain 345"
+    ]
+  },
+  {
+    "id": 346,
+    "arab": "هرسو",
+    "latin": "kata_346",
+    "translit": "translit_346",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 346",
+      "makna lain 346"
+    ]
+  },
+  {
+    "id": 347,
+    "arab": "وشنهع",
+    "latin": "kata_347",
+    "translit": "translit_347",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 347",
+      "makna lain 347"
+    ]
+  },
+  {
+    "id": 348,
+    "arab": "هملر",
+    "latin": "kata_348",
+    "translit": "translit_348",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 348",
+      "makna lain 348"
+    ]
+  },
+  {
+    "id": 349,
+    "arab": "عقس",
+    "latin": "kata_349",
+    "translit": "translit_349",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 349",
+      "makna lain 349"
+    ]
+  },
+  {
+    "id": 350,
+    "arab": "محيوو",
+    "latin": "kata_350",
+    "translit": "translit_350",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 350",
+      "makna lain 350"
+    ]
+  },
+  {
+    "id": 351,
+    "arab": "قتعت",
+    "latin": "kata_351",
+    "translit": "translit_351",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 351",
+      "makna lain 351"
+    ]
+  },
+  {
+    "id": 352,
+    "arab": "سبش",
+    "latin": "kata_352",
+    "translit": "translit_352",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 352",
+      "makna lain 352"
+    ]
+  },
+  {
+    "id": 353,
+    "arab": "هوح",
+    "latin": "kata_353",
+    "translit": "translit_353",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 353",
+      "makna lain 353"
+    ]
+  },
+  {
+    "id": 354,
+    "arab": "ييو",
+    "latin": "kata_354",
+    "translit": "translit_354",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 354",
+      "makna lain 354"
+    ]
+  },
+  {
+    "id": 355,
+    "arab": "عتيحك",
+    "latin": "kata_355",
+    "translit": "translit_355",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 355",
+      "makna lain 355"
+    ]
+  },
+  {
+    "id": 356,
+    "arab": "دنتح",
+    "latin": "kata_356",
+    "translit": "translit_356",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 356",
+      "makna lain 356"
+    ]
+  },
+  {
+    "id": 357,
+    "arab": "منفحر",
+    "latin": "kata_357",
+    "translit": "translit_357",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 357",
+      "makna lain 357"
+    ]
+  },
+  {
+    "id": 358,
+    "arab": "تهق",
+    "latin": "kata_358",
+    "translit": "translit_358",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 358",
+      "makna lain 358"
+    ]
+  },
+  {
+    "id": 359,
+    "arab": "كني",
+    "latin": "kata_359",
+    "translit": "translit_359",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 359",
+      "makna lain 359"
+    ]
+  },
+  {
+    "id": 360,
+    "arab": "حير",
+    "latin": "kata_360",
+    "translit": "translit_360",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 360",
+      "makna lain 360"
+    ]
+  },
+  {
+    "id": 361,
+    "arab": "نلشو",
+    "latin": "kata_361",
+    "translit": "translit_361",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 361",
+      "makna lain 361"
+    ]
+  },
+  {
+    "id": 362,
+    "arab": "فبفكت",
+    "latin": "kata_362",
+    "translit": "translit_362",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 362",
+      "makna lain 362"
+    ]
+  },
+  {
+    "id": 363,
+    "arab": "رسمح",
+    "latin": "kata_363",
+    "translit": "translit_363",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 363",
+      "makna lain 363"
+    ]
+  },
+  {
+    "id": 364,
+    "arab": "ععنح",
+    "latin": "kata_364",
+    "translit": "translit_364",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 364",
+      "makna lain 364"
+    ]
+  },
+  {
+    "id": 365,
+    "arab": "ههش",
+    "latin": "kata_365",
+    "translit": "translit_365",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 365",
+      "makna lain 365"
+    ]
+  },
+  {
+    "id": 366,
+    "arab": "وكوش",
+    "latin": "kata_366",
+    "translit": "translit_366",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 366",
+      "makna lain 366"
+    ]
+  },
+  {
+    "id": 367,
+    "arab": "سمقرن",
+    "latin": "kata_367",
+    "translit": "translit_367",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 367",
+      "makna lain 367"
+    ]
+  },
+  {
+    "id": 368,
+    "arab": "وسسو",
+    "latin": "kata_368",
+    "translit": "translit_368",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 368",
+      "makna lain 368"
+    ]
+  },
+  {
+    "id": 369,
+    "arab": "قمعوح",
+    "latin": "kata_369",
+    "translit": "translit_369",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 369",
+      "makna lain 369"
+    ]
+  },
+  {
+    "id": 370,
+    "arab": "بمقس",
+    "latin": "kata_370",
+    "translit": "translit_370",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 370",
+      "makna lain 370"
+    ]
+  },
+  {
+    "id": 371,
+    "arab": "تمح",
+    "latin": "kata_371",
+    "translit": "translit_371",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 371",
+      "makna lain 371"
+    ]
+  },
+  {
+    "id": 372,
+    "arab": "ككككد",
+    "latin": "kata_372",
+    "translit": "translit_372",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 372",
+      "makna lain 372"
+    ]
+  },
+  {
+    "id": 373,
+    "arab": "وحود",
+    "latin": "kata_373",
+    "translit": "translit_373",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 373",
+      "makna lain 373"
+    ]
+  },
+  {
+    "id": 374,
+    "arab": "هرنك",
+    "latin": "kata_374",
+    "translit": "translit_374",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 374",
+      "makna lain 374"
+    ]
+  },
+  {
+    "id": 375,
+    "arab": "رتف",
+    "latin": "kata_375",
+    "translit": "translit_375",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 375",
+      "makna lain 375"
+    ]
+  },
+  {
+    "id": 376,
+    "arab": "نيمتع",
+    "latin": "kata_376",
+    "translit": "translit_376",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 376",
+      "makna lain 376"
+    ]
+  },
+  {
+    "id": 377,
+    "arab": "يتحه",
+    "latin": "kata_377",
+    "translit": "translit_377",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 377",
+      "makna lain 377"
+    ]
+  },
+  {
+    "id": 378,
+    "arab": "ميليه",
+    "latin": "kata_378",
+    "translit": "translit_378",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 378",
+      "makna lain 378"
+    ]
+  },
+  {
+    "id": 379,
+    "arab": "نهسرد",
+    "latin": "kata_379",
+    "translit": "translit_379",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 379",
+      "makna lain 379"
+    ]
+  },
+  {
+    "id": 380,
+    "arab": "شكي",
+    "latin": "kata_380",
+    "translit": "translit_380",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 380",
+      "makna lain 380"
+    ]
+  },
+  {
+    "id": 381,
+    "arab": "كرل",
+    "latin": "kata_381",
+    "translit": "translit_381",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 381",
+      "makna lain 381"
+    ]
+  },
+  {
+    "id": 382,
+    "arab": "تلفنن",
+    "latin": "kata_382",
+    "translit": "translit_382",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 382",
+      "makna lain 382"
+    ]
+  },
+  {
+    "id": 383,
+    "arab": "عوفرم",
+    "latin": "kata_383",
+    "translit": "translit_383",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 383",
+      "makna lain 383"
+    ]
+  },
+  {
+    "id": 384,
+    "arab": "يعتح",
+    "latin": "kata_384",
+    "translit": "translit_384",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 384",
+      "makna lain 384"
+    ]
+  },
+  {
+    "id": 385,
+    "arab": "ترش",
+    "latin": "kata_385",
+    "translit": "translit_385",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 385",
+      "makna lain 385"
+    ]
+  },
+  {
+    "id": 386,
+    "arab": "همبر",
+    "latin": "kata_386",
+    "translit": "translit_386",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 386",
+      "makna lain 386"
+    ]
+  },
+  {
+    "id": 387,
+    "arab": "بين",
+    "latin": "kata_387",
+    "translit": "translit_387",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 387",
+      "makna lain 387"
+    ]
+  },
+  {
+    "id": 388,
+    "arab": "نرع",
+    "latin": "kata_388",
+    "translit": "translit_388",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 388",
+      "makna lain 388"
+    ]
+  },
+  {
+    "id": 389,
+    "arab": "تهش",
+    "latin": "kata_389",
+    "translit": "translit_389",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 389",
+      "makna lain 389"
+    ]
+  },
+  {
+    "id": 390,
+    "arab": "قشد",
+    "latin": "kata_390",
+    "translit": "translit_390",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 390",
+      "makna lain 390"
+    ]
+  },
+  {
+    "id": 391,
+    "arab": "هرلش",
+    "latin": "kata_391",
+    "translit": "translit_391",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 391",
+      "makna lain 391"
+    ]
+  },
+  {
+    "id": 392,
+    "arab": "يمدرع",
+    "latin": "kata_392",
+    "translit": "translit_392",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 392",
+      "makna lain 392"
+    ]
+  },
+  {
+    "id": 393,
+    "arab": "لركي",
+    "latin": "kata_393",
+    "translit": "translit_393",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 393",
+      "makna lain 393"
+    ]
+  },
+  {
+    "id": 394,
+    "arab": "تمم",
+    "latin": "kata_394",
+    "translit": "translit_394",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 394",
+      "makna lain 394"
+    ]
+  },
+  {
+    "id": 395,
+    "arab": "لحل",
+    "latin": "kata_395",
+    "translit": "translit_395",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 395",
+      "makna lain 395"
+    ]
+  },
+  {
+    "id": 396,
+    "arab": "عحيح",
+    "latin": "kata_396",
+    "translit": "translit_396",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 396",
+      "makna lain 396"
+    ]
+  },
+  {
+    "id": 397,
+    "arab": "يوفعف",
+    "latin": "kata_397",
+    "translit": "translit_397",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 397",
+      "makna lain 397"
+    ]
+  },
+  {
+    "id": 398,
+    "arab": "سسي",
+    "latin": "kata_398",
+    "translit": "translit_398",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 398",
+      "makna lain 398"
+    ]
+  },
+  {
+    "id": 399,
+    "arab": "فوحدد",
+    "latin": "kata_399",
+    "translit": "translit_399",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 399",
+      "makna lain 399"
+    ]
+  },
+  {
+    "id": 400,
+    "arab": "رلمعل",
+    "latin": "kata_400",
+    "translit": "translit_400",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 400",
+      "makna lain 400"
+    ]
+  },
+  {
+    "id": 401,
+    "arab": "كقدت",
+    "latin": "kata_401",
+    "translit": "translit_401",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 401",
+      "makna lain 401"
+    ]
+  },
+  {
+    "id": 402,
+    "arab": "دقشد",
+    "latin": "kata_402",
+    "translit": "translit_402",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 402",
+      "makna lain 402"
+    ]
+  },
+  {
+    "id": 403,
+    "arab": "كيققم",
+    "latin": "kata_403",
+    "translit": "translit_403",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 403",
+      "makna lain 403"
+    ]
+  },
+  {
+    "id": 404,
+    "arab": "قمدهم",
+    "latin": "kata_404",
+    "translit": "translit_404",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 404",
+      "makna lain 404"
+    ]
+  },
+  {
+    "id": 405,
+    "arab": "هوف",
+    "latin": "kata_405",
+    "translit": "translit_405",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 405",
+      "makna lain 405"
+    ]
+  },
+  {
+    "id": 406,
+    "arab": "حكر",
+    "latin": "kata_406",
+    "translit": "translit_406",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 406",
+      "makna lain 406"
+    ]
+  },
+  {
+    "id": 407,
+    "arab": "ونفي",
+    "latin": "kata_407",
+    "translit": "translit_407",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 407",
+      "makna lain 407"
+    ]
+  },
+  {
+    "id": 408,
+    "arab": "نبت",
+    "latin": "kata_408",
+    "translit": "translit_408",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 408",
+      "makna lain 408"
+    ]
+  },
+  {
+    "id": 409,
+    "arab": "حفتنف",
+    "latin": "kata_409",
+    "translit": "translit_409",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 409",
+      "makna lain 409"
+    ]
+  },
+  {
+    "id": 410,
+    "arab": "ومرفك",
+    "latin": "kata_410",
+    "translit": "translit_410",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 410",
+      "makna lain 410"
+    ]
+  },
+  {
+    "id": 411,
+    "arab": "سبق",
+    "latin": "kata_411",
+    "translit": "translit_411",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 411",
+      "makna lain 411"
+    ]
+  },
+  {
+    "id": 412,
+    "arab": "روك",
+    "latin": "kata_412",
+    "translit": "translit_412",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 412",
+      "makna lain 412"
+    ]
+  },
+  {
+    "id": 413,
+    "arab": "شمف",
+    "latin": "kata_413",
+    "translit": "translit_413",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 413",
+      "makna lain 413"
+    ]
+  },
+  {
+    "id": 414,
+    "arab": "بكربف",
+    "latin": "kata_414",
+    "translit": "translit_414",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 414",
+      "makna lain 414"
+    ]
+  },
+  {
+    "id": 415,
+    "arab": "هلح",
+    "latin": "kata_415",
+    "translit": "translit_415",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 415",
+      "makna lain 415"
+    ]
+  },
+  {
+    "id": 416,
+    "arab": "شلع",
+    "latin": "kata_416",
+    "translit": "translit_416",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 416",
+      "makna lain 416"
+    ]
+  },
+  {
+    "id": 417,
+    "arab": "نمع",
+    "latin": "kata_417",
+    "translit": "translit_417",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 417",
+      "makna lain 417"
+    ]
+  },
+  {
+    "id": 418,
+    "arab": "لقس",
+    "latin": "kata_418",
+    "translit": "translit_418",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 418",
+      "makna lain 418"
+    ]
+  },
+  {
+    "id": 419,
+    "arab": "بعم",
+    "latin": "kata_419",
+    "translit": "translit_419",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 419",
+      "makna lain 419"
+    ]
+  },
+  {
+    "id": 420,
+    "arab": "حتب",
+    "latin": "kata_420",
+    "translit": "translit_420",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 420",
+      "makna lain 420"
+    ]
+  },
+  {
+    "id": 421,
+    "arab": "عرد",
+    "latin": "kata_421",
+    "translit": "translit_421",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 421",
+      "makna lain 421"
+    ]
+  },
+  {
+    "id": 422,
+    "arab": "رششش",
+    "latin": "kata_422",
+    "translit": "translit_422",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 422",
+      "makna lain 422"
+    ]
+  },
+  {
+    "id": 423,
+    "arab": "سلست",
+    "latin": "kata_423",
+    "translit": "translit_423",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 423",
+      "makna lain 423"
+    ]
+  },
+  {
+    "id": 424,
+    "arab": "رسوره",
+    "latin": "kata_424",
+    "translit": "translit_424",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 424",
+      "makna lain 424"
+    ]
+  },
+  {
+    "id": 425,
+    "arab": "وسنب",
+    "latin": "kata_425",
+    "translit": "translit_425",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 425",
+      "makna lain 425"
+    ]
+  },
+  {
+    "id": 426,
+    "arab": "نسدب",
+    "latin": "kata_426",
+    "translit": "translit_426",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 426",
+      "makna lain 426"
+    ]
+  },
+  {
+    "id": 427,
+    "arab": "رهعن",
+    "latin": "kata_427",
+    "translit": "translit_427",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 427",
+      "makna lain 427"
+    ]
+  },
+  {
+    "id": 428,
+    "arab": "سكعي",
+    "latin": "kata_428",
+    "translit": "translit_428",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 428",
+      "makna lain 428"
+    ]
+  },
+  {
+    "id": 429,
+    "arab": "رحف",
+    "latin": "kata_429",
+    "translit": "translit_429",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 429",
+      "makna lain 429"
+    ]
+  },
+  {
+    "id": 430,
+    "arab": "همدنم",
+    "latin": "kata_430",
+    "translit": "translit_430",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 430",
+      "makna lain 430"
+    ]
+  },
+  {
+    "id": 431,
+    "arab": "تلشرك",
+    "latin": "kata_431",
+    "translit": "translit_431",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 431",
+      "makna lain 431"
+    ]
+  },
+  {
+    "id": 432,
+    "arab": "قمح",
+    "latin": "kata_432",
+    "translit": "translit_432",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 432",
+      "makna lain 432"
+    ]
+  },
+  {
+    "id": 433,
+    "arab": "محيف",
+    "latin": "kata_433",
+    "translit": "translit_433",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 433",
+      "makna lain 433"
+    ]
+  },
+  {
+    "id": 434,
+    "arab": "كرد",
+    "latin": "kata_434",
+    "translit": "translit_434",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 434",
+      "makna lain 434"
+    ]
+  },
+  {
+    "id": 435,
+    "arab": "لشوتم",
+    "latin": "kata_435",
+    "translit": "translit_435",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 435",
+      "makna lain 435"
+    ]
+  },
+  {
+    "id": 436,
+    "arab": "كسيسك",
+    "latin": "kata_436",
+    "translit": "translit_436",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 436",
+      "makna lain 436"
+    ]
+  },
+  {
+    "id": 437,
+    "arab": "ودرل",
+    "latin": "kata_437",
+    "translit": "translit_437",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 437",
+      "makna lain 437"
+    ]
+  },
+  {
+    "id": 438,
+    "arab": "قنبره",
+    "latin": "kata_438",
+    "translit": "translit_438",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 438",
+      "makna lain 438"
+    ]
+  },
+  {
+    "id": 439,
+    "arab": "فهحل",
+    "latin": "kata_439",
+    "translit": "translit_439",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 439",
+      "makna lain 439"
+    ]
+  },
+  {
+    "id": 440,
+    "arab": "كلمق",
+    "latin": "kata_440",
+    "translit": "translit_440",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 440",
+      "makna lain 440"
+    ]
+  },
+  {
+    "id": 441,
+    "arab": "بمش",
+    "latin": "kata_441",
+    "translit": "translit_441",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 441",
+      "makna lain 441"
+    ]
+  },
+  {
+    "id": 442,
+    "arab": "تنع",
+    "latin": "kata_442",
+    "translit": "translit_442",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 442",
+      "makna lain 442"
+    ]
+  },
+  {
+    "id": 443,
+    "arab": "دفه",
+    "latin": "kata_443",
+    "translit": "translit_443",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 443",
+      "makna lain 443"
+    ]
+  },
+  {
+    "id": 444,
+    "arab": "تتسر",
+    "latin": "kata_444",
+    "translit": "translit_444",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 444",
+      "makna lain 444"
+    ]
+  },
+  {
+    "id": 445,
+    "arab": "سحهو",
+    "latin": "kata_445",
+    "translit": "translit_445",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 445",
+      "makna lain 445"
+    ]
+  },
+  {
+    "id": 446,
+    "arab": "شننعن",
+    "latin": "kata_446",
+    "translit": "translit_446",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 446",
+      "makna lain 446"
+    ]
+  },
+  {
+    "id": 447,
+    "arab": "رقهف",
+    "latin": "kata_447",
+    "translit": "translit_447",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 447",
+      "makna lain 447"
+    ]
+  },
+  {
+    "id": 448,
+    "arab": "كتكق",
+    "latin": "kata_448",
+    "translit": "translit_448",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 448",
+      "makna lain 448"
+    ]
+  },
+  {
+    "id": 449,
+    "arab": "مفحني",
+    "latin": "kata_449",
+    "translit": "translit_449",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 449",
+      "makna lain 449"
+    ]
+  },
+  {
+    "id": 450,
+    "arab": "سمح",
+    "latin": "kata_450",
+    "translit": "translit_450",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 450",
+      "makna lain 450"
+    ]
+  },
+  {
+    "id": 451,
+    "arab": "سقه",
+    "latin": "kata_451",
+    "translit": "translit_451",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 451",
+      "makna lain 451"
+    ]
+  },
+  {
+    "id": 452,
+    "arab": "عسشع",
+    "latin": "kata_452",
+    "translit": "translit_452",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 452",
+      "makna lain 452"
+    ]
+  },
+  {
+    "id": 453,
+    "arab": "محع",
+    "latin": "kata_453",
+    "translit": "translit_453",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 453",
+      "makna lain 453"
+    ]
+  },
+  {
+    "id": 454,
+    "arab": "دهسش",
+    "latin": "kata_454",
+    "translit": "translit_454",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 454",
+      "makna lain 454"
+    ]
+  },
+  {
+    "id": 455,
+    "arab": "شمك",
+    "latin": "kata_455",
+    "translit": "translit_455",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 455",
+      "makna lain 455"
+    ]
+  },
+  {
+    "id": 456,
+    "arab": "سححد",
+    "latin": "kata_456",
+    "translit": "translit_456",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 456",
+      "makna lain 456"
+    ]
+  },
+  {
+    "id": 457,
+    "arab": "عحكو",
+    "latin": "kata_457",
+    "translit": "translit_457",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 457",
+      "makna lain 457"
+    ]
+  },
+  {
+    "id": 458,
+    "arab": "قكحه",
+    "latin": "kata_458",
+    "translit": "translit_458",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 458",
+      "makna lain 458"
+    ]
+  },
+  {
+    "id": 459,
+    "arab": "مونفه",
+    "latin": "kata_459",
+    "translit": "translit_459",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 459",
+      "makna lain 459"
+    ]
+  },
+  {
+    "id": 460,
+    "arab": "حيحم",
+    "latin": "kata_460",
+    "translit": "translit_460",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 460",
+      "makna lain 460"
+    ]
+  },
+  {
+    "id": 461,
+    "arab": "يرههه",
+    "latin": "kata_461",
+    "translit": "translit_461",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 461",
+      "makna lain 461"
+    ]
+  },
+  {
+    "id": 462,
+    "arab": "مفهعك",
+    "latin": "kata_462",
+    "translit": "translit_462",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 462",
+      "makna lain 462"
+    ]
+  },
+  {
+    "id": 463,
+    "arab": "فكمبك",
+    "latin": "kata_463",
+    "translit": "translit_463",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 463",
+      "makna lain 463"
+    ]
+  },
+  {
+    "id": 464,
+    "arab": "وحسشو",
+    "latin": "kata_464",
+    "translit": "translit_464",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 464",
+      "makna lain 464"
+    ]
+  },
+  {
+    "id": 465,
+    "arab": "حنينن",
+    "latin": "kata_465",
+    "translit": "translit_465",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 465",
+      "makna lain 465"
+    ]
+  },
+  {
+    "id": 466,
+    "arab": "يسلع",
+    "latin": "kata_466",
+    "translit": "translit_466",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 466",
+      "makna lain 466"
+    ]
+  },
+  {
+    "id": 467,
+    "arab": "تيهر",
+    "latin": "kata_467",
+    "translit": "translit_467",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 467",
+      "makna lain 467"
+    ]
+  },
+  {
+    "id": 468,
+    "arab": "وققب",
+    "latin": "kata_468",
+    "translit": "translit_468",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 468",
+      "makna lain 468"
+    ]
+  },
+  {
+    "id": 469,
+    "arab": "تتل",
+    "latin": "kata_469",
+    "translit": "translit_469",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 469",
+      "makna lain 469"
+    ]
+  },
+  {
+    "id": 470,
+    "arab": "نبكت",
+    "latin": "kata_470",
+    "translit": "translit_470",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 470",
+      "makna lain 470"
+    ]
+  },
+  {
+    "id": 471,
+    "arab": "عقح",
+    "latin": "kata_471",
+    "translit": "translit_471",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 471",
+      "makna lain 471"
+    ]
+  },
+  {
+    "id": 472,
+    "arab": "شعع",
+    "latin": "kata_472",
+    "translit": "translit_472",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 472",
+      "makna lain 472"
+    ]
+  },
+  {
+    "id": 473,
+    "arab": "شفو",
+    "latin": "kata_473",
+    "translit": "translit_473",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 473",
+      "makna lain 473"
+    ]
+  },
+  {
+    "id": 474,
+    "arab": "هتيمد",
+    "latin": "kata_474",
+    "translit": "translit_474",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 474",
+      "makna lain 474"
+    ]
+  },
+  {
+    "id": 475,
+    "arab": "نفح",
+    "latin": "kata_475",
+    "translit": "translit_475",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 475",
+      "makna lain 475"
+    ]
+  },
+  {
+    "id": 476,
+    "arab": "عبست",
+    "latin": "kata_476",
+    "translit": "translit_476",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 476",
+      "makna lain 476"
+    ]
+  },
+  {
+    "id": 477,
+    "arab": "فلففش",
+    "latin": "kata_477",
+    "translit": "translit_477",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 477",
+      "makna lain 477"
+    ]
+  },
+  {
+    "id": 478,
+    "arab": "بشر",
+    "latin": "kata_478",
+    "translit": "translit_478",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 478",
+      "makna lain 478"
+    ]
+  },
+  {
+    "id": 479,
+    "arab": "دهد",
+    "latin": "kata_479",
+    "translit": "translit_479",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 479",
+      "makna lain 479"
+    ]
+  },
+  {
+    "id": 480,
+    "arab": "قدف",
+    "latin": "kata_480",
+    "translit": "translit_480",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 480",
+      "makna lain 480"
+    ]
+  },
+  {
+    "id": 481,
+    "arab": "دكن",
+    "latin": "kata_481",
+    "translit": "translit_481",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 481",
+      "makna lain 481"
+    ]
+  },
+  {
+    "id": 482,
+    "arab": "مقسرش",
+    "latin": "kata_482",
+    "translit": "translit_482",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 482",
+      "makna lain 482"
+    ]
+  },
+  {
+    "id": 483,
+    "arab": "حيرد",
+    "latin": "kata_483",
+    "translit": "translit_483",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 483",
+      "makna lain 483"
+    ]
+  },
+  {
+    "id": 484,
+    "arab": "مففف",
+    "latin": "kata_484",
+    "translit": "translit_484",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 484",
+      "makna lain 484"
+    ]
+  },
+  {
+    "id": 485,
+    "arab": "لدك",
+    "latin": "kata_485",
+    "translit": "translit_485",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 485",
+      "makna lain 485"
+    ]
+  },
+  {
+    "id": 486,
+    "arab": "درسد",
+    "latin": "kata_486",
+    "translit": "translit_486",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 486",
+      "makna lain 486"
+    ]
+  },
+  {
+    "id": 487,
+    "arab": "هورر",
+    "latin": "kata_487",
+    "translit": "translit_487",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 487",
+      "makna lain 487"
+    ]
+  },
+  {
+    "id": 488,
+    "arab": "يسرب",
+    "latin": "kata_488",
+    "translit": "translit_488",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 488",
+      "makna lain 488"
+    ]
+  },
+  {
+    "id": 489,
+    "arab": "قهم",
+    "latin": "kata_489",
+    "translit": "translit_489",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 489",
+      "makna lain 489"
+    ]
+  },
+  {
+    "id": 490,
+    "arab": "نسن",
+    "latin": "kata_490",
+    "translit": "translit_490",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 490",
+      "makna lain 490"
+    ]
+  },
+  {
+    "id": 491,
+    "arab": "سنععف",
+    "latin": "kata_491",
+    "translit": "translit_491",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 491",
+      "makna lain 491"
+    ]
+  },
+  {
+    "id": 492,
+    "arab": "حرقشح",
+    "latin": "kata_492",
+    "translit": "translit_492",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 492",
+      "makna lain 492"
+    ]
+  },
+  {
+    "id": 493,
+    "arab": "كنسك",
+    "latin": "kata_493",
+    "translit": "translit_493",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 493",
+      "makna lain 493"
+    ]
+  },
+  {
+    "id": 494,
+    "arab": "تحمد",
+    "latin": "kata_494",
+    "translit": "translit_494",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 494",
+      "makna lain 494"
+    ]
+  },
+  {
+    "id": 495,
+    "arab": "شعق",
+    "latin": "kata_495",
+    "translit": "translit_495",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 495",
+      "makna lain 495"
+    ]
+  },
+  {
+    "id": 496,
+    "arab": "لتنيو",
+    "latin": "kata_496",
+    "translit": "translit_496",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 496",
+      "makna lain 496"
+    ]
+  },
+  {
+    "id": 497,
+    "arab": "نحدش",
+    "latin": "kata_497",
+    "translit": "translit_497",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 497",
+      "makna lain 497"
+    ]
+  },
+  {
+    "id": 498,
+    "arab": "ححر",
+    "latin": "kata_498",
+    "translit": "translit_498",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 498",
+      "makna lain 498"
+    ]
+  },
+  {
+    "id": 499,
+    "arab": "قريه",
+    "latin": "kata_499",
+    "translit": "translit_499",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 499",
+      "makna lain 499"
+    ]
+  },
+  {
+    "id": 500,
+    "arab": "قكهد",
+    "latin": "kata_500",
+    "translit": "translit_500",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 500",
+      "makna lain 500"
+    ]
+  },
+  {
+    "id": 501,
+    "arab": "نلسف",
+    "latin": "kata_501",
+    "translit": "translit_501",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 501",
+      "makna lain 501"
+    ]
+  },
+  {
+    "id": 502,
+    "arab": "مشملح",
+    "latin": "kata_502",
+    "translit": "translit_502",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 502",
+      "makna lain 502"
+    ]
+  },
+  {
+    "id": 503,
+    "arab": "لحمكد",
+    "latin": "kata_503",
+    "translit": "translit_503",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 503",
+      "makna lain 503"
+    ]
+  },
+  {
+    "id": 504,
+    "arab": "عقشسب",
+    "latin": "kata_504",
+    "translit": "translit_504",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 504",
+      "makna lain 504"
+    ]
+  },
+  {
+    "id": 505,
+    "arab": "هشع",
+    "latin": "kata_505",
+    "translit": "translit_505",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 505",
+      "makna lain 505"
+    ]
+  },
+  {
+    "id": 506,
+    "arab": "فتو",
+    "latin": "kata_506",
+    "translit": "translit_506",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 506",
+      "makna lain 506"
+    ]
+  },
+  {
+    "id": 507,
+    "arab": "موه",
+    "latin": "kata_507",
+    "translit": "translit_507",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 507",
+      "makna lain 507"
+    ]
+  },
+  {
+    "id": 508,
+    "arab": "تمكدن",
+    "latin": "kata_508",
+    "translit": "translit_508",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 508",
+      "makna lain 508"
+    ]
+  },
+  {
+    "id": 509,
+    "arab": "وحسيب",
+    "latin": "kata_509",
+    "translit": "translit_509",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 509",
+      "makna lain 509"
+    ]
+  },
+  {
+    "id": 510,
+    "arab": "دلعو",
+    "latin": "kata_510",
+    "translit": "translit_510",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 510",
+      "makna lain 510"
+    ]
+  },
+  {
+    "id": 511,
+    "arab": "حكنن",
+    "latin": "kata_511",
+    "translit": "translit_511",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 511",
+      "makna lain 511"
+    ]
+  },
+  {
+    "id": 512,
+    "arab": "كرك",
+    "latin": "kata_512",
+    "translit": "translit_512",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 512",
+      "makna lain 512"
+    ]
+  },
+  {
+    "id": 513,
+    "arab": "شنن",
+    "latin": "kata_513",
+    "translit": "translit_513",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 513",
+      "makna lain 513"
+    ]
+  },
+  {
+    "id": 514,
+    "arab": "لشست",
+    "latin": "kata_514",
+    "translit": "translit_514",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 514",
+      "makna lain 514"
+    ]
+  },
+  {
+    "id": 515,
+    "arab": "مشيم",
+    "latin": "kata_515",
+    "translit": "translit_515",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 515",
+      "makna lain 515"
+    ]
+  },
+  {
+    "id": 516,
+    "arab": "بكعن",
+    "latin": "kata_516",
+    "translit": "translit_516",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 516",
+      "makna lain 516"
+    ]
+  },
+  {
+    "id": 517,
+    "arab": "حنديس",
+    "latin": "kata_517",
+    "translit": "translit_517",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 517",
+      "makna lain 517"
+    ]
+  },
+  {
+    "id": 518,
+    "arab": "تعدح",
+    "latin": "kata_518",
+    "translit": "translit_518",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 518",
+      "makna lain 518"
+    ]
+  },
+  {
+    "id": 519,
+    "arab": "فمحتو",
+    "latin": "kata_519",
+    "translit": "translit_519",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 519",
+      "makna lain 519"
+    ]
+  },
+  {
+    "id": 520,
+    "arab": "فتفلو",
+    "latin": "kata_520",
+    "translit": "translit_520",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 520",
+      "makna lain 520"
+    ]
+  },
+  {
+    "id": 521,
+    "arab": "سكمع",
+    "latin": "kata_521",
+    "translit": "translit_521",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 521",
+      "makna lain 521"
+    ]
+  },
+  {
+    "id": 522,
+    "arab": "قيمش",
+    "latin": "kata_522",
+    "translit": "translit_522",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 522",
+      "makna lain 522"
+    ]
+  },
+  {
+    "id": 523,
+    "arab": "بنو",
+    "latin": "kata_523",
+    "translit": "translit_523",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 523",
+      "makna lain 523"
+    ]
+  },
+  {
+    "id": 524,
+    "arab": "لقهه",
+    "latin": "kata_524",
+    "translit": "translit_524",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 524",
+      "makna lain 524"
+    ]
+  },
+  {
+    "id": 525,
+    "arab": "هكه",
+    "latin": "kata_525",
+    "translit": "translit_525",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 525",
+      "makna lain 525"
+    ]
+  },
+  {
+    "id": 526,
+    "arab": "رلبد",
+    "latin": "kata_526",
+    "translit": "translit_526",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 526",
+      "makna lain 526"
+    ]
+  },
+  {
+    "id": 527,
+    "arab": "كفق",
+    "latin": "kata_527",
+    "translit": "translit_527",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 527",
+      "makna lain 527"
+    ]
+  },
+  {
+    "id": 528,
+    "arab": "لستي",
+    "latin": "kata_528",
+    "translit": "translit_528",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 528",
+      "makna lain 528"
+    ]
+  },
+  {
+    "id": 529,
+    "arab": "هببك",
+    "latin": "kata_529",
+    "translit": "translit_529",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 529",
+      "makna lain 529"
+    ]
+  },
+  {
+    "id": 530,
+    "arab": "مهمن",
+    "latin": "kata_530",
+    "translit": "translit_530",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 530",
+      "makna lain 530"
+    ]
+  },
+  {
+    "id": 531,
+    "arab": "روس",
+    "latin": "kata_531",
+    "translit": "translit_531",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 531",
+      "makna lain 531"
+    ]
+  },
+  {
+    "id": 532,
+    "arab": "تين",
+    "latin": "kata_532",
+    "translit": "translit_532",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 532",
+      "makna lain 532"
+    ]
+  },
+  {
+    "id": 533,
+    "arab": "لعبد",
+    "latin": "kata_533",
+    "translit": "translit_533",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 533",
+      "makna lain 533"
+    ]
+  },
+  {
+    "id": 534,
+    "arab": "نلع",
+    "latin": "kata_534",
+    "translit": "translit_534",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 534",
+      "makna lain 534"
+    ]
+  },
+  {
+    "id": 535,
+    "arab": "بسمر",
+    "latin": "kata_535",
+    "translit": "translit_535",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 535",
+      "makna lain 535"
+    ]
+  },
+  {
+    "id": 536,
+    "arab": "تبهف",
+    "latin": "kata_536",
+    "translit": "translit_536",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 536",
+      "makna lain 536"
+    ]
+  },
+  {
+    "id": 537,
+    "arab": "لسقل",
+    "latin": "kata_537",
+    "translit": "translit_537",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 537",
+      "makna lain 537"
+    ]
+  },
+  {
+    "id": 538,
+    "arab": "ليت",
+    "latin": "kata_538",
+    "translit": "translit_538",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 538",
+      "makna lain 538"
+    ]
+  },
+  {
+    "id": 539,
+    "arab": "توفر",
+    "latin": "kata_539",
+    "translit": "translit_539",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 539",
+      "makna lain 539"
+    ]
+  },
+  {
+    "id": 540,
+    "arab": "عنم",
+    "latin": "kata_540",
+    "translit": "translit_540",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 540",
+      "makna lain 540"
+    ]
+  },
+  {
+    "id": 541,
+    "arab": "وربح",
+    "latin": "kata_541",
+    "translit": "translit_541",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 541",
+      "makna lain 541"
+    ]
+  },
+  {
+    "id": 542,
+    "arab": "همبشي",
+    "latin": "kata_542",
+    "translit": "translit_542",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 542",
+      "makna lain 542"
+    ]
+  },
+  {
+    "id": 543,
+    "arab": "روشر",
+    "latin": "kata_543",
+    "translit": "translit_543",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 543",
+      "makna lain 543"
+    ]
+  },
+  {
+    "id": 544,
+    "arab": "حيممك",
+    "latin": "kata_544",
+    "translit": "translit_544",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 544",
+      "makna lain 544"
+    ]
+  },
+  {
+    "id": 545,
+    "arab": "مووب",
+    "latin": "kata_545",
+    "translit": "translit_545",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 545",
+      "makna lain 545"
+    ]
+  },
+  {
+    "id": 546,
+    "arab": "نفح",
+    "latin": "kata_546",
+    "translit": "translit_546",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 546",
+      "makna lain 546"
+    ]
+  },
+  {
+    "id": 547,
+    "arab": "درركح",
+    "latin": "kata_547",
+    "translit": "translit_547",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 547",
+      "makna lain 547"
+    ]
+  },
+  {
+    "id": 548,
+    "arab": "سسميك",
+    "latin": "kata_548",
+    "translit": "translit_548",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 548",
+      "makna lain 548"
+    ]
+  },
+  {
+    "id": 549,
+    "arab": "حقتعف",
+    "latin": "kata_549",
+    "translit": "translit_549",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 549",
+      "makna lain 549"
+    ]
+  },
+  {
+    "id": 550,
+    "arab": "نلشور",
+    "latin": "kata_550",
+    "translit": "translit_550",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 550",
+      "makna lain 550"
+    ]
+  },
+  {
+    "id": 551,
+    "arab": "هحته",
+    "latin": "kata_551",
+    "translit": "translit_551",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 551",
+      "makna lain 551"
+    ]
+  },
+  {
+    "id": 552,
+    "arab": "عموفت",
+    "latin": "kata_552",
+    "translit": "translit_552",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 552",
+      "makna lain 552"
+    ]
+  },
+  {
+    "id": 553,
+    "arab": "مهي",
+    "latin": "kata_553",
+    "translit": "translit_553",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 553",
+      "makna lain 553"
+    ]
+  },
+  {
+    "id": 554,
+    "arab": "حلحس",
+    "latin": "kata_554",
+    "translit": "translit_554",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 554",
+      "makna lain 554"
+    ]
+  },
+  {
+    "id": 555,
+    "arab": "شهينر",
+    "latin": "kata_555",
+    "translit": "translit_555",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 555",
+      "makna lain 555"
+    ]
+  },
+  {
+    "id": 556,
+    "arab": "ستش",
+    "latin": "kata_556",
+    "translit": "translit_556",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 556",
+      "makna lain 556"
+    ]
+  },
+  {
+    "id": 557,
+    "arab": "حدس",
+    "latin": "kata_557",
+    "translit": "translit_557",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 557",
+      "makna lain 557"
+    ]
+  },
+  {
+    "id": 558,
+    "arab": "هلعر",
+    "latin": "kata_558",
+    "translit": "translit_558",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 558",
+      "makna lain 558"
+    ]
+  },
+  {
+    "id": 559,
+    "arab": "وليم",
+    "latin": "kata_559",
+    "translit": "translit_559",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 559",
+      "makna lain 559"
+    ]
+  },
+  {
+    "id": 560,
+    "arab": "فهنوي",
+    "latin": "kata_560",
+    "translit": "translit_560",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 560",
+      "makna lain 560"
+    ]
+  },
+  {
+    "id": 561,
+    "arab": "فشعبو",
+    "latin": "kata_561",
+    "translit": "translit_561",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 561",
+      "makna lain 561"
+    ]
+  },
+  {
+    "id": 562,
+    "arab": "يدعبم",
+    "latin": "kata_562",
+    "translit": "translit_562",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 562",
+      "makna lain 562"
+    ]
+  },
+  {
+    "id": 563,
+    "arab": "ككيو",
+    "latin": "kata_563",
+    "translit": "translit_563",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 563",
+      "makna lain 563"
+    ]
+  },
+  {
+    "id": 564,
+    "arab": "وعقح",
+    "latin": "kata_564",
+    "translit": "translit_564",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 564",
+      "makna lain 564"
+    ]
+  },
+  {
+    "id": 565,
+    "arab": "مربهح",
+    "latin": "kata_565",
+    "translit": "translit_565",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 565",
+      "makna lain 565"
+    ]
+  },
+  {
+    "id": 566,
+    "arab": "بحفهق",
+    "latin": "kata_566",
+    "translit": "translit_566",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 566",
+      "makna lain 566"
+    ]
+  },
+  {
+    "id": 567,
+    "arab": "حوشس",
+    "latin": "kata_567",
+    "translit": "translit_567",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 567",
+      "makna lain 567"
+    ]
+  },
+  {
+    "id": 568,
+    "arab": "ففم",
+    "latin": "kata_568",
+    "translit": "translit_568",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 568",
+      "makna lain 568"
+    ]
+  },
+  {
+    "id": 569,
+    "arab": "رده",
+    "latin": "kata_569",
+    "translit": "translit_569",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 569",
+      "makna lain 569"
+    ]
+  },
+  {
+    "id": 570,
+    "arab": "عفكح",
+    "latin": "kata_570",
+    "translit": "translit_570",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 570",
+      "makna lain 570"
+    ]
+  },
+  {
+    "id": 571,
+    "arab": "هلح",
+    "latin": "kata_571",
+    "translit": "translit_571",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 571",
+      "makna lain 571"
+    ]
+  },
+  {
+    "id": 572,
+    "arab": "تشحف",
+    "latin": "kata_572",
+    "translit": "translit_572",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 572",
+      "makna lain 572"
+    ]
+  },
+  {
+    "id": 573,
+    "arab": "تعفع",
+    "latin": "kata_573",
+    "translit": "translit_573",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 573",
+      "makna lain 573"
+    ]
+  },
+  {
+    "id": 574,
+    "arab": "مبت",
+    "latin": "kata_574",
+    "translit": "translit_574",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 574",
+      "makna lain 574"
+    ]
+  },
+  {
+    "id": 575,
+    "arab": "يحعق",
+    "latin": "kata_575",
+    "translit": "translit_575",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 575",
+      "makna lain 575"
+    ]
+  },
+  {
+    "id": 576,
+    "arab": "ععح",
+    "latin": "kata_576",
+    "translit": "translit_576",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 576",
+      "makna lain 576"
+    ]
+  },
+  {
+    "id": 577,
+    "arab": "همسو",
+    "latin": "kata_577",
+    "translit": "translit_577",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 577",
+      "makna lain 577"
+    ]
+  },
+  {
+    "id": 578,
+    "arab": "بدقفه",
+    "latin": "kata_578",
+    "translit": "translit_578",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 578",
+      "makna lain 578"
+    ]
+  },
+  {
+    "id": 579,
+    "arab": "لهدتي",
+    "latin": "kata_579",
+    "translit": "translit_579",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 579",
+      "makna lain 579"
+    ]
+  },
+  {
+    "id": 580,
+    "arab": "هدقكر",
+    "latin": "kata_580",
+    "translit": "translit_580",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 580",
+      "makna lain 580"
+    ]
+  },
+  {
+    "id": 581,
+    "arab": "تدوهس",
+    "latin": "kata_581",
+    "translit": "translit_581",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 581",
+      "makna lain 581"
+    ]
+  },
+  {
+    "id": 582,
+    "arab": "يفنني",
+    "latin": "kata_582",
+    "translit": "translit_582",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 582",
+      "makna lain 582"
+    ]
+  },
+  {
+    "id": 583,
+    "arab": "شهبت",
+    "latin": "kata_583",
+    "translit": "translit_583",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 583",
+      "makna lain 583"
+    ]
+  },
+  {
+    "id": 584,
+    "arab": "سنهرل",
+    "latin": "kata_584",
+    "translit": "translit_584",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 584",
+      "makna lain 584"
+    ]
+  },
+  {
+    "id": 585,
+    "arab": "كقيه",
+    "latin": "kata_585",
+    "translit": "translit_585",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 585",
+      "makna lain 585"
+    ]
+  },
+  {
+    "id": 586,
+    "arab": "يدمه",
+    "latin": "kata_586",
+    "translit": "translit_586",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 586",
+      "makna lain 586"
+    ]
+  },
+  {
+    "id": 587,
+    "arab": "وردلس",
+    "latin": "kata_587",
+    "translit": "translit_587",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 587",
+      "makna lain 587"
+    ]
+  },
+  {
+    "id": 588,
+    "arab": "شحتو",
+    "latin": "kata_588",
+    "translit": "translit_588",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 588",
+      "makna lain 588"
+    ]
+  },
+  {
+    "id": 589,
+    "arab": "دعر",
+    "latin": "kata_589",
+    "translit": "translit_589",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 589",
+      "makna lain 589"
+    ]
+  },
+  {
+    "id": 590,
+    "arab": "شعو",
+    "latin": "kata_590",
+    "translit": "translit_590",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 590",
+      "makna lain 590"
+    ]
+  },
+  {
+    "id": 591,
+    "arab": "فتب",
+    "latin": "kata_591",
+    "translit": "translit_591",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 591",
+      "makna lain 591"
+    ]
+  },
+  {
+    "id": 592,
+    "arab": "شبه",
+    "latin": "kata_592",
+    "translit": "translit_592",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 592",
+      "makna lain 592"
+    ]
+  },
+  {
+    "id": 593,
+    "arab": "شرل",
+    "latin": "kata_593",
+    "translit": "translit_593",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 593",
+      "makna lain 593"
+    ]
+  },
+  {
+    "id": 594,
+    "arab": "دهقو",
+    "latin": "kata_594",
+    "translit": "translit_594",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 594",
+      "makna lain 594"
+    ]
+  },
+  {
+    "id": 595,
+    "arab": "ققعف",
+    "latin": "kata_595",
+    "translit": "translit_595",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 595",
+      "makna lain 595"
+    ]
+  },
+  {
+    "id": 596,
+    "arab": "حهم",
+    "latin": "kata_596",
+    "translit": "translit_596",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 596",
+      "makna lain 596"
+    ]
+  },
+  {
+    "id": 597,
+    "arab": "دهلمه",
+    "latin": "kata_597",
+    "translit": "translit_597",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 597",
+      "makna lain 597"
+    ]
+  },
+  {
+    "id": 598,
+    "arab": "ودف",
+    "latin": "kata_598",
+    "translit": "translit_598",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 598",
+      "makna lain 598"
+    ]
+  },
+  {
+    "id": 599,
+    "arab": "مدرعي",
+    "latin": "kata_599",
+    "translit": "translit_599",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 599",
+      "makna lain 599"
+    ]
+  },
+  {
+    "id": 600,
+    "arab": "مفي",
+    "latin": "kata_600",
+    "translit": "translit_600",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 600",
+      "makna lain 600"
+    ]
+  },
+  {
+    "id": 601,
+    "arab": "هببسي",
+    "latin": "kata_601",
+    "translit": "translit_601",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 601",
+      "makna lain 601"
+    ]
+  },
+  {
+    "id": 602,
+    "arab": "كعيرم",
+    "latin": "kata_602",
+    "translit": "translit_602",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 602",
+      "makna lain 602"
+    ]
+  },
+  {
+    "id": 603,
+    "arab": "يوف",
+    "latin": "kata_603",
+    "translit": "translit_603",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 603",
+      "makna lain 603"
+    ]
+  },
+  {
+    "id": 604,
+    "arab": "كدس",
+    "latin": "kata_604",
+    "translit": "translit_604",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 604",
+      "makna lain 604"
+    ]
+  },
+  {
+    "id": 605,
+    "arab": "ميرن",
+    "latin": "kata_605",
+    "translit": "translit_605",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 605",
+      "makna lain 605"
+    ]
+  },
+  {
+    "id": 606,
+    "arab": "لفلرف",
+    "latin": "kata_606",
+    "translit": "translit_606",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 606",
+      "makna lain 606"
+    ]
+  },
+  {
+    "id": 607,
+    "arab": "ينففن",
+    "latin": "kata_607",
+    "translit": "translit_607",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 607",
+      "makna lain 607"
+    ]
+  },
+  {
+    "id": 608,
+    "arab": "مشهلد",
+    "latin": "kata_608",
+    "translit": "translit_608",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 608",
+      "makna lain 608"
+    ]
+  },
+  {
+    "id": 609,
+    "arab": "فرقه",
+    "latin": "kata_609",
+    "translit": "translit_609",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 609",
+      "makna lain 609"
+    ]
+  },
+  {
+    "id": 610,
+    "arab": "حيي",
+    "latin": "kata_610",
+    "translit": "translit_610",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 610",
+      "makna lain 610"
+    ]
+  },
+  {
+    "id": 611,
+    "arab": "دكشقف",
+    "latin": "kata_611",
+    "translit": "translit_611",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 611",
+      "makna lain 611"
+    ]
+  },
+  {
+    "id": 612,
+    "arab": "ققتي",
+    "latin": "kata_612",
+    "translit": "translit_612",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 612",
+      "makna lain 612"
+    ]
+  },
+  {
+    "id": 613,
+    "arab": "هكبسب",
+    "latin": "kata_613",
+    "translit": "translit_613",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 613",
+      "makna lain 613"
+    ]
+  },
+  {
+    "id": 614,
+    "arab": "هشو",
+    "latin": "kata_614",
+    "translit": "translit_614",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 614",
+      "makna lain 614"
+    ]
+  },
+  {
+    "id": 615,
+    "arab": "دشعه",
+    "latin": "kata_615",
+    "translit": "translit_615",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 615",
+      "makna lain 615"
+    ]
+  },
+  {
+    "id": 616,
+    "arab": "فعت",
+    "latin": "kata_616",
+    "translit": "translit_616",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 616",
+      "makna lain 616"
+    ]
+  },
+  {
+    "id": 617,
+    "arab": "ععف",
+    "latin": "kata_617",
+    "translit": "translit_617",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 617",
+      "makna lain 617"
+    ]
+  },
+  {
+    "id": 618,
+    "arab": "ولب",
+    "latin": "kata_618",
+    "translit": "translit_618",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 618",
+      "makna lain 618"
+    ]
+  },
+  {
+    "id": 619,
+    "arab": "يدحك",
+    "latin": "kata_619",
+    "translit": "translit_619",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 619",
+      "makna lain 619"
+    ]
+  },
+  {
+    "id": 620,
+    "arab": "دحهد",
+    "latin": "kata_620",
+    "translit": "translit_620",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 620",
+      "makna lain 620"
+    ]
+  },
+  {
+    "id": 621,
+    "arab": "تهف",
+    "latin": "kata_621",
+    "translit": "translit_621",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 621",
+      "makna lain 621"
+    ]
+  },
+  {
+    "id": 622,
+    "arab": "ديتد",
+    "latin": "kata_622",
+    "translit": "translit_622",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 622",
+      "makna lain 622"
+    ]
+  },
+  {
+    "id": 623,
+    "arab": "قرن",
+    "latin": "kata_623",
+    "translit": "translit_623",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 623",
+      "makna lain 623"
+    ]
+  },
+  {
+    "id": 624,
+    "arab": "ييح",
+    "latin": "kata_624",
+    "translit": "translit_624",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 624",
+      "makna lain 624"
+    ]
+  },
+  {
+    "id": 625,
+    "arab": "شومعب",
+    "latin": "kata_625",
+    "translit": "translit_625",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 625",
+      "makna lain 625"
+    ]
+  },
+  {
+    "id": 626,
+    "arab": "للقب",
+    "latin": "kata_626",
+    "translit": "translit_626",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 626",
+      "makna lain 626"
+    ]
+  },
+  {
+    "id": 627,
+    "arab": "دعق",
+    "latin": "kata_627",
+    "translit": "translit_627",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 627",
+      "makna lain 627"
+    ]
+  },
+  {
+    "id": 628,
+    "arab": "فهحشح",
+    "latin": "kata_628",
+    "translit": "translit_628",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 628",
+      "makna lain 628"
+    ]
+  },
+  {
+    "id": 629,
+    "arab": "قشع",
+    "latin": "kata_629",
+    "translit": "translit_629",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 629",
+      "makna lain 629"
+    ]
+  },
+  {
+    "id": 630,
+    "arab": "فرك",
+    "latin": "kata_630",
+    "translit": "translit_630",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 630",
+      "makna lain 630"
+    ]
+  },
+  {
+    "id": 631,
+    "arab": "فرو",
+    "latin": "kata_631",
+    "translit": "translit_631",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 631",
+      "makna lain 631"
+    ]
+  },
+  {
+    "id": 632,
+    "arab": "تحعهش",
+    "latin": "kata_632",
+    "translit": "translit_632",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 632",
+      "makna lain 632"
+    ]
+  },
+  {
+    "id": 633,
+    "arab": "دقر",
+    "latin": "kata_633",
+    "translit": "translit_633",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 633",
+      "makna lain 633"
+    ]
+  },
+  {
+    "id": 634,
+    "arab": "حبقي",
+    "latin": "kata_634",
+    "translit": "translit_634",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 634",
+      "makna lain 634"
+    ]
+  },
+  {
+    "id": 635,
+    "arab": "كلررو",
+    "latin": "kata_635",
+    "translit": "translit_635",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 635",
+      "makna lain 635"
+    ]
+  },
+  {
+    "id": 636,
+    "arab": "شكينك",
+    "latin": "kata_636",
+    "translit": "translit_636",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 636",
+      "makna lain 636"
+    ]
+  },
+  {
+    "id": 637,
+    "arab": "سددف",
+    "latin": "kata_637",
+    "translit": "translit_637",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 637",
+      "makna lain 637"
+    ]
+  },
+  {
+    "id": 638,
+    "arab": "همسدب",
+    "latin": "kata_638",
+    "translit": "translit_638",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 638",
+      "makna lain 638"
+    ]
+  },
+  {
+    "id": 639,
+    "arab": "كبلك",
+    "latin": "kata_639",
+    "translit": "translit_639",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 639",
+      "makna lain 639"
+    ]
+  },
+  {
+    "id": 640,
+    "arab": "ندم",
+    "latin": "kata_640",
+    "translit": "translit_640",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 640",
+      "makna lain 640"
+    ]
+  },
+  {
+    "id": 641,
+    "arab": "دكنني",
+    "latin": "kata_641",
+    "translit": "translit_641",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 641",
+      "makna lain 641"
+    ]
+  },
+  {
+    "id": 642,
+    "arab": "بشت",
+    "latin": "kata_642",
+    "translit": "translit_642",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 642",
+      "makna lain 642"
+    ]
+  },
+  {
+    "id": 643,
+    "arab": "بشل",
+    "latin": "kata_643",
+    "translit": "translit_643",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 643",
+      "makna lain 643"
+    ]
+  },
+  {
+    "id": 644,
+    "arab": "كتلمد",
+    "latin": "kata_644",
+    "translit": "translit_644",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 644",
+      "makna lain 644"
+    ]
+  },
+  {
+    "id": 645,
+    "arab": "قعلور",
+    "latin": "kata_645",
+    "translit": "translit_645",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 645",
+      "makna lain 645"
+    ]
+  },
+  {
+    "id": 646,
+    "arab": "دحدل",
+    "latin": "kata_646",
+    "translit": "translit_646",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 646",
+      "makna lain 646"
+    ]
+  },
+  {
+    "id": 647,
+    "arab": "تكييي",
+    "latin": "kata_647",
+    "translit": "translit_647",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 647",
+      "makna lain 647"
+    ]
+  },
+  {
+    "id": 648,
+    "arab": "عنيوو",
+    "latin": "kata_648",
+    "translit": "translit_648",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 648",
+      "makna lain 648"
+    ]
+  },
+  {
+    "id": 649,
+    "arab": "ندسكد",
+    "latin": "kata_649",
+    "translit": "translit_649",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 649",
+      "makna lain 649"
+    ]
+  },
+  {
+    "id": 650,
+    "arab": "فيبت",
+    "latin": "kata_650",
+    "translit": "translit_650",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 650",
+      "makna lain 650"
+    ]
+  },
+  {
+    "id": 651,
+    "arab": "يتمرح",
+    "latin": "kata_651",
+    "translit": "translit_651",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 651",
+      "makna lain 651"
+    ]
+  },
+  {
+    "id": 652,
+    "arab": "دموش",
+    "latin": "kata_652",
+    "translit": "translit_652",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 652",
+      "makna lain 652"
+    ]
+  },
+  {
+    "id": 653,
+    "arab": "رمن",
+    "latin": "kata_653",
+    "translit": "translit_653",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 653",
+      "makna lain 653"
+    ]
+  },
+  {
+    "id": 654,
+    "arab": "شرلنش",
+    "latin": "kata_654",
+    "translit": "translit_654",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 654",
+      "makna lain 654"
+    ]
+  },
+  {
+    "id": 655,
+    "arab": "مكق",
+    "latin": "kata_655",
+    "translit": "translit_655",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 655",
+      "makna lain 655"
+    ]
+  },
+  {
+    "id": 656,
+    "arab": "وفد",
+    "latin": "kata_656",
+    "translit": "translit_656",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 656",
+      "makna lain 656"
+    ]
+  },
+  {
+    "id": 657,
+    "arab": "كتتيم",
+    "latin": "kata_657",
+    "translit": "translit_657",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 657",
+      "makna lain 657"
+    ]
+  },
+  {
+    "id": 658,
+    "arab": "فملشك",
+    "latin": "kata_658",
+    "translit": "translit_658",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 658",
+      "makna lain 658"
+    ]
+  },
+  {
+    "id": 659,
+    "arab": "نتفنس",
+    "latin": "kata_659",
+    "translit": "translit_659",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 659",
+      "makna lain 659"
+    ]
+  },
+  {
+    "id": 660,
+    "arab": "قوك",
+    "latin": "kata_660",
+    "translit": "translit_660",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 660",
+      "makna lain 660"
+    ]
+  },
+  {
+    "id": 661,
+    "arab": "هكه",
+    "latin": "kata_661",
+    "translit": "translit_661",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 661",
+      "makna lain 661"
+    ]
+  },
+  {
+    "id": 662,
+    "arab": "فبعس",
+    "latin": "kata_662",
+    "translit": "translit_662",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 662",
+      "makna lain 662"
+    ]
+  },
+  {
+    "id": 663,
+    "arab": "قنك",
+    "latin": "kata_663",
+    "translit": "translit_663",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 663",
+      "makna lain 663"
+    ]
+  },
+  {
+    "id": 664,
+    "arab": "شندهر",
+    "latin": "kata_664",
+    "translit": "translit_664",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 664",
+      "makna lain 664"
+    ]
+  },
+  {
+    "id": 665,
+    "arab": "يمدرت",
+    "latin": "kata_665",
+    "translit": "translit_665",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 665",
+      "makna lain 665"
+    ]
+  },
+  {
+    "id": 666,
+    "arab": "تحمم",
+    "latin": "kata_666",
+    "translit": "translit_666",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 666",
+      "makna lain 666"
+    ]
+  },
+  {
+    "id": 667,
+    "arab": "شيت",
+    "latin": "kata_667",
+    "translit": "translit_667",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 667",
+      "makna lain 667"
+    ]
+  },
+  {
+    "id": 668,
+    "arab": "حدنسل",
+    "latin": "kata_668",
+    "translit": "translit_668",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 668",
+      "makna lain 668"
+    ]
+  },
+  {
+    "id": 669,
+    "arab": "بشسف",
+    "latin": "kata_669",
+    "translit": "translit_669",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 669",
+      "makna lain 669"
+    ]
+  },
+  {
+    "id": 670,
+    "arab": "بقح",
+    "latin": "kata_670",
+    "translit": "translit_670",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 670",
+      "makna lain 670"
+    ]
+  },
+  {
+    "id": 671,
+    "arab": "شلن",
+    "latin": "kata_671",
+    "translit": "translit_671",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 671",
+      "makna lain 671"
+    ]
+  },
+  {
+    "id": 672,
+    "arab": "رقسد",
+    "latin": "kata_672",
+    "translit": "translit_672",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 672",
+      "makna lain 672"
+    ]
+  },
+  {
+    "id": 673,
+    "arab": "يسبوو",
+    "latin": "kata_673",
+    "translit": "translit_673",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 673",
+      "makna lain 673"
+    ]
+  },
+  {
+    "id": 674,
+    "arab": "دهي",
+    "latin": "kata_674",
+    "translit": "translit_674",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 674",
+      "makna lain 674"
+    ]
+  },
+  {
+    "id": 675,
+    "arab": "عفوف",
+    "latin": "kata_675",
+    "translit": "translit_675",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 675",
+      "makna lain 675"
+    ]
+  },
+  {
+    "id": 676,
+    "arab": "رفر",
+    "latin": "kata_676",
+    "translit": "translit_676",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 676",
+      "makna lain 676"
+    ]
+  },
+  {
+    "id": 677,
+    "arab": "عدبفن",
+    "latin": "kata_677",
+    "translit": "translit_677",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 677",
+      "makna lain 677"
+    ]
+  },
+  {
+    "id": 678,
+    "arab": "لعه",
+    "latin": "kata_678",
+    "translit": "translit_678",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 678",
+      "makna lain 678"
+    ]
+  },
+  {
+    "id": 679,
+    "arab": "رتبب",
+    "latin": "kata_679",
+    "translit": "translit_679",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 679",
+      "makna lain 679"
+    ]
+  },
+  {
+    "id": 680,
+    "arab": "فتينم",
+    "latin": "kata_680",
+    "translit": "translit_680",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 680",
+      "makna lain 680"
+    ]
+  },
+  {
+    "id": 681,
+    "arab": "تحدرد",
+    "latin": "kata_681",
+    "translit": "translit_681",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 681",
+      "makna lain 681"
+    ]
+  },
+  {
+    "id": 682,
+    "arab": "بره",
+    "latin": "kata_682",
+    "translit": "translit_682",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 682",
+      "makna lain 682"
+    ]
+  },
+  {
+    "id": 683,
+    "arab": "بيعلق",
+    "latin": "kata_683",
+    "translit": "translit_683",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 683",
+      "makna lain 683"
+    ]
+  },
+  {
+    "id": 684,
+    "arab": "يميهو",
+    "latin": "kata_684",
+    "translit": "translit_684",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 684",
+      "makna lain 684"
+    ]
+  },
+  {
+    "id": 685,
+    "arab": "هروك",
+    "latin": "kata_685",
+    "translit": "translit_685",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 685",
+      "makna lain 685"
+    ]
+  },
+  {
+    "id": 686,
+    "arab": "ففيهش",
+    "latin": "kata_686",
+    "translit": "translit_686",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 686",
+      "makna lain 686"
+    ]
+  },
+  {
+    "id": 687,
+    "arab": "قشكد",
+    "latin": "kata_687",
+    "translit": "translit_687",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 687",
+      "makna lain 687"
+    ]
+  },
+  {
+    "id": 688,
+    "arab": "يلفيح",
+    "latin": "kata_688",
+    "translit": "translit_688",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 688",
+      "makna lain 688"
+    ]
+  },
+  {
+    "id": 689,
+    "arab": "ورسمل",
+    "latin": "kata_689",
+    "translit": "translit_689",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 689",
+      "makna lain 689"
+    ]
+  },
+  {
+    "id": 690,
+    "arab": "هرو",
+    "latin": "kata_690",
+    "translit": "translit_690",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 690",
+      "makna lain 690"
+    ]
+  },
+  {
+    "id": 691,
+    "arab": "قتمد",
+    "latin": "kata_691",
+    "translit": "translit_691",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 691",
+      "makna lain 691"
+    ]
+  },
+  {
+    "id": 692,
+    "arab": "فلتفع",
+    "latin": "kata_692",
+    "translit": "translit_692",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 692",
+      "makna lain 692"
+    ]
+  },
+  {
+    "id": 693,
+    "arab": "لستقف",
+    "latin": "kata_693",
+    "translit": "translit_693",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 693",
+      "makna lain 693"
+    ]
+  },
+  {
+    "id": 694,
+    "arab": "سيس",
+    "latin": "kata_694",
+    "translit": "translit_694",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 694",
+      "makna lain 694"
+    ]
+  },
+  {
+    "id": 695,
+    "arab": "شمسم",
+    "latin": "kata_695",
+    "translit": "translit_695",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 695",
+      "makna lain 695"
+    ]
+  },
+  {
+    "id": 696,
+    "arab": "سحيد",
+    "latin": "kata_696",
+    "translit": "translit_696",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 696",
+      "makna lain 696"
+    ]
+  },
+  {
+    "id": 697,
+    "arab": "ككبم",
+    "latin": "kata_697",
+    "translit": "translit_697",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 697",
+      "makna lain 697"
+    ]
+  },
+  {
+    "id": 698,
+    "arab": "ششيع",
+    "latin": "kata_698",
+    "translit": "translit_698",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 698",
+      "makna lain 698"
+    ]
+  },
+  {
+    "id": 699,
+    "arab": "يمبو",
+    "latin": "kata_699",
+    "translit": "translit_699",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 699",
+      "makna lain 699"
+    ]
+  },
+  {
+    "id": 700,
+    "arab": "كهسي",
+    "latin": "kata_700",
+    "translit": "translit_700",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 700",
+      "makna lain 700"
+    ]
+  },
+  {
+    "id": 701,
+    "arab": "يحف",
+    "latin": "kata_701",
+    "translit": "translit_701",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 701",
+      "makna lain 701"
+    ]
+  },
+  {
+    "id": 702,
+    "arab": "بنيت",
+    "latin": "kata_702",
+    "translit": "translit_702",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 702",
+      "makna lain 702"
+    ]
+  },
+  {
+    "id": 703,
+    "arab": "نحن",
+    "latin": "kata_703",
+    "translit": "translit_703",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 703",
+      "makna lain 703"
+    ]
+  },
+  {
+    "id": 704,
+    "arab": "تستعن",
+    "latin": "kata_704",
+    "translit": "translit_704",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 704",
+      "makna lain 704"
+    ]
+  },
+  {
+    "id": 705,
+    "arab": "نهك",
+    "latin": "kata_705",
+    "translit": "translit_705",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 705",
+      "makna lain 705"
+    ]
+  },
+  {
+    "id": 706,
+    "arab": "رهو",
+    "latin": "kata_706",
+    "translit": "translit_706",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 706",
+      "makna lain 706"
+    ]
+  },
+  {
+    "id": 707,
+    "arab": "كسوفي",
+    "latin": "kata_707",
+    "translit": "translit_707",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 707",
+      "makna lain 707"
+    ]
+  },
+  {
+    "id": 708,
+    "arab": "كبق",
+    "latin": "kata_708",
+    "translit": "translit_708",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 708",
+      "makna lain 708"
+    ]
+  },
+  {
+    "id": 709,
+    "arab": "عنر",
+    "latin": "kata_709",
+    "translit": "translit_709",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 709",
+      "makna lain 709"
+    ]
+  },
+  {
+    "id": 710,
+    "arab": "حفيكف",
+    "latin": "kata_710",
+    "translit": "translit_710",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 710",
+      "makna lain 710"
+    ]
+  },
+  {
+    "id": 711,
+    "arab": "ينحدد",
+    "latin": "kata_711",
+    "translit": "translit_711",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 711",
+      "makna lain 711"
+    ]
+  },
+  {
+    "id": 712,
+    "arab": "قفب",
+    "latin": "kata_712",
+    "translit": "translit_712",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 712",
+      "makna lain 712"
+    ]
+  },
+  {
+    "id": 713,
+    "arab": "لتستد",
+    "latin": "kata_713",
+    "translit": "translit_713",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 713",
+      "makna lain 713"
+    ]
+  },
+  {
+    "id": 714,
+    "arab": "مرنعح",
+    "latin": "kata_714",
+    "translit": "translit_714",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 714",
+      "makna lain 714"
+    ]
+  },
+  {
+    "id": 715,
+    "arab": "دنسمب",
+    "latin": "kata_715",
+    "translit": "translit_715",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 715",
+      "makna lain 715"
+    ]
+  },
+  {
+    "id": 716,
+    "arab": "حله",
+    "latin": "kata_716",
+    "translit": "translit_716",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 716",
+      "makna lain 716"
+    ]
+  },
+  {
+    "id": 717,
+    "arab": "قفب",
+    "latin": "kata_717",
+    "translit": "translit_717",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 717",
+      "makna lain 717"
+    ]
+  },
+  {
+    "id": 718,
+    "arab": "ححترب",
+    "latin": "kata_718",
+    "translit": "translit_718",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 718",
+      "makna lain 718"
+    ]
+  },
+  {
+    "id": 719,
+    "arab": "تكرب",
+    "latin": "kata_719",
+    "translit": "translit_719",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 719",
+      "makna lain 719"
+    ]
+  },
+  {
+    "id": 720,
+    "arab": "رلدمو",
+    "latin": "kata_720",
+    "translit": "translit_720",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 720",
+      "makna lain 720"
+    ]
+  },
+  {
+    "id": 721,
+    "arab": "بوق",
+    "latin": "kata_721",
+    "translit": "translit_721",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 721",
+      "makna lain 721"
+    ]
+  },
+  {
+    "id": 722,
+    "arab": "فشيع",
+    "latin": "kata_722",
+    "translit": "translit_722",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 722",
+      "makna lain 722"
+    ]
+  },
+  {
+    "id": 723,
+    "arab": "ندسف",
+    "latin": "kata_723",
+    "translit": "translit_723",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 723",
+      "makna lain 723"
+    ]
+  },
+  {
+    "id": 724,
+    "arab": "عتم",
+    "latin": "kata_724",
+    "translit": "translit_724",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 724",
+      "makna lain 724"
+    ]
+  },
+  {
+    "id": 725,
+    "arab": "حري",
+    "latin": "kata_725",
+    "translit": "translit_725",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 725",
+      "makna lain 725"
+    ]
+  },
+  {
+    "id": 726,
+    "arab": "سشنبش",
+    "latin": "kata_726",
+    "translit": "translit_726",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 726",
+      "makna lain 726"
+    ]
+  },
+  {
+    "id": 727,
+    "arab": "هشقك",
+    "latin": "kata_727",
+    "translit": "translit_727",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 727",
+      "makna lain 727"
+    ]
+  },
+  {
+    "id": 728,
+    "arab": "نبتح",
+    "latin": "kata_728",
+    "translit": "translit_728",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 728",
+      "makna lain 728"
+    ]
+  },
+  {
+    "id": 729,
+    "arab": "تيلحح",
+    "latin": "kata_729",
+    "translit": "translit_729",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 729",
+      "makna lain 729"
+    ]
+  },
+  {
+    "id": 730,
+    "arab": "تحم",
+    "latin": "kata_730",
+    "translit": "translit_730",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 730",
+      "makna lain 730"
+    ]
+  },
+  {
+    "id": 731,
+    "arab": "معنس",
+    "latin": "kata_731",
+    "translit": "translit_731",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 731",
+      "makna lain 731"
+    ]
+  },
+  {
+    "id": 732,
+    "arab": "تيك",
+    "latin": "kata_732",
+    "translit": "translit_732",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 732",
+      "makna lain 732"
+    ]
+  },
+  {
+    "id": 733,
+    "arab": "نرهت",
+    "latin": "kata_733",
+    "translit": "translit_733",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 733",
+      "makna lain 733"
+    ]
+  },
+  {
+    "id": 734,
+    "arab": "مسرو",
+    "latin": "kata_734",
+    "translit": "translit_734",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 734",
+      "makna lain 734"
+    ]
+  },
+  {
+    "id": 735,
+    "arab": "عفد",
+    "latin": "kata_735",
+    "translit": "translit_735",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 735",
+      "makna lain 735"
+    ]
+  },
+  {
+    "id": 736,
+    "arab": "سدبت",
+    "latin": "kata_736",
+    "translit": "translit_736",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 736",
+      "makna lain 736"
+    ]
+  },
+  {
+    "id": 737,
+    "arab": "هشرشو",
+    "latin": "kata_737",
+    "translit": "translit_737",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 737",
+      "makna lain 737"
+    ]
+  },
+  {
+    "id": 738,
+    "arab": "فترلب",
+    "latin": "kata_738",
+    "translit": "translit_738",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 738",
+      "makna lain 738"
+    ]
+  },
+  {
+    "id": 739,
+    "arab": "فحوف",
+    "latin": "kata_739",
+    "translit": "translit_739",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 739",
+      "makna lain 739"
+    ]
+  },
+  {
+    "id": 740,
+    "arab": "ههحم",
+    "latin": "kata_740",
+    "translit": "translit_740",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 740",
+      "makna lain 740"
+    ]
+  },
+  {
+    "id": 741,
+    "arab": "ردمق",
+    "latin": "kata_741",
+    "translit": "translit_741",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 741",
+      "makna lain 741"
+    ]
+  },
+  {
+    "id": 742,
+    "arab": "بحهدو",
+    "latin": "kata_742",
+    "translit": "translit_742",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 742",
+      "makna lain 742"
+    ]
+  },
+  {
+    "id": 743,
+    "arab": "يبيي",
+    "latin": "kata_743",
+    "translit": "translit_743",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 743",
+      "makna lain 743"
+    ]
+  },
+  {
+    "id": 744,
+    "arab": "ففك",
+    "latin": "kata_744",
+    "translit": "translit_744",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 744",
+      "makna lain 744"
+    ]
+  },
+  {
+    "id": 745,
+    "arab": "يكع",
+    "latin": "kata_745",
+    "translit": "translit_745",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 745",
+      "makna lain 745"
+    ]
+  },
+  {
+    "id": 746,
+    "arab": "حلي",
+    "latin": "kata_746",
+    "translit": "translit_746",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 746",
+      "makna lain 746"
+    ]
+  },
+  {
+    "id": 747,
+    "arab": "كفعب",
+    "latin": "kata_747",
+    "translit": "translit_747",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 747",
+      "makna lain 747"
+    ]
+  },
+  {
+    "id": 748,
+    "arab": "لويس",
+    "latin": "kata_748",
+    "translit": "translit_748",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 748",
+      "makna lain 748"
+    ]
+  },
+  {
+    "id": 749,
+    "arab": "بففح",
+    "latin": "kata_749",
+    "translit": "translit_749",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 749",
+      "makna lain 749"
+    ]
+  },
+  {
+    "id": 750,
+    "arab": "فيقشع",
+    "latin": "kata_750",
+    "translit": "translit_750",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 750",
+      "makna lain 750"
+    ]
+  },
+  {
+    "id": 751,
+    "arab": "عتحفش",
+    "latin": "kata_751",
+    "translit": "translit_751",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 751",
+      "makna lain 751"
+    ]
+  },
+  {
+    "id": 752,
+    "arab": "كلكنت",
+    "latin": "kata_752",
+    "translit": "translit_752",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 752",
+      "makna lain 752"
+    ]
+  },
+  {
+    "id": 753,
+    "arab": "قرليف",
+    "latin": "kata_753",
+    "translit": "translit_753",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 753",
+      "makna lain 753"
+    ]
+  },
+  {
+    "id": 754,
+    "arab": "بفي",
+    "latin": "kata_754",
+    "translit": "translit_754",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 754",
+      "makna lain 754"
+    ]
+  },
+  {
+    "id": 755,
+    "arab": "لهت",
+    "latin": "kata_755",
+    "translit": "translit_755",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 755",
+      "makna lain 755"
+    ]
+  },
+  {
+    "id": 756,
+    "arab": "شلدن",
+    "latin": "kata_756",
+    "translit": "translit_756",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 756",
+      "makna lain 756"
+    ]
+  },
+  {
+    "id": 757,
+    "arab": "بركمن",
+    "latin": "kata_757",
+    "translit": "translit_757",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 757",
+      "makna lain 757"
+    ]
+  },
+  {
+    "id": 758,
+    "arab": "سريكف",
+    "latin": "kata_758",
+    "translit": "translit_758",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 758",
+      "makna lain 758"
+    ]
+  },
+  {
+    "id": 759,
+    "arab": "عدي",
+    "latin": "kata_759",
+    "translit": "translit_759",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 759",
+      "makna lain 759"
+    ]
+  },
+  {
+    "id": 760,
+    "arab": "بمرك",
+    "latin": "kata_760",
+    "translit": "translit_760",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 760",
+      "makna lain 760"
+    ]
+  },
+  {
+    "id": 761,
+    "arab": "رندك",
+    "latin": "kata_761",
+    "translit": "translit_761",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 761",
+      "makna lain 761"
+    ]
+  },
+  {
+    "id": 762,
+    "arab": "ررحيي",
+    "latin": "kata_762",
+    "translit": "translit_762",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 762",
+      "makna lain 762"
+    ]
+  },
+  {
+    "id": 763,
+    "arab": "تعبكح",
+    "latin": "kata_763",
+    "translit": "translit_763",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 763",
+      "makna lain 763"
+    ]
+  },
+  {
+    "id": 764,
+    "arab": "بميو",
+    "latin": "kata_764",
+    "translit": "translit_764",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 764",
+      "makna lain 764"
+    ]
+  },
+  {
+    "id": 765,
+    "arab": "هفقتن",
+    "latin": "kata_765",
+    "translit": "translit_765",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 765",
+      "makna lain 765"
+    ]
+  },
+  {
+    "id": 766,
+    "arab": "تقتعد",
+    "latin": "kata_766",
+    "translit": "translit_766",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 766",
+      "makna lain 766"
+    ]
+  },
+  {
+    "id": 767,
+    "arab": "للرر",
+    "latin": "kata_767",
+    "translit": "translit_767",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 767",
+      "makna lain 767"
+    ]
+  },
+  {
+    "id": 768,
+    "arab": "رحل",
+    "latin": "kata_768",
+    "translit": "translit_768",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 768",
+      "makna lain 768"
+    ]
+  },
+  {
+    "id": 769,
+    "arab": "رفكدك",
+    "latin": "kata_769",
+    "translit": "translit_769",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 769",
+      "makna lain 769"
+    ]
+  },
+  {
+    "id": 770,
+    "arab": "لرسس",
+    "latin": "kata_770",
+    "translit": "translit_770",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 770",
+      "makna lain 770"
+    ]
+  },
+  {
+    "id": 771,
+    "arab": "معق",
+    "latin": "kata_771",
+    "translit": "translit_771",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 771",
+      "makna lain 771"
+    ]
+  },
+  {
+    "id": 772,
+    "arab": "رعس",
+    "latin": "kata_772",
+    "translit": "translit_772",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 772",
+      "makna lain 772"
+    ]
+  },
+  {
+    "id": 773,
+    "arab": "تقبد",
+    "latin": "kata_773",
+    "translit": "translit_773",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 773",
+      "makna lain 773"
+    ]
+  },
+  {
+    "id": 774,
+    "arab": "بتتع",
+    "latin": "kata_774",
+    "translit": "translit_774",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 774",
+      "makna lain 774"
+    ]
+  },
+  {
+    "id": 775,
+    "arab": "ككرشل",
+    "latin": "kata_775",
+    "translit": "translit_775",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 775",
+      "makna lain 775"
+    ]
+  },
+  {
+    "id": 776,
+    "arab": "ودبفه",
+    "latin": "kata_776",
+    "translit": "translit_776",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 776",
+      "makna lain 776"
+    ]
+  },
+  {
+    "id": 777,
+    "arab": "يفدلك",
+    "latin": "kata_777",
+    "translit": "translit_777",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 777",
+      "makna lain 777"
+    ]
+  },
+  {
+    "id": 778,
+    "arab": "حبق",
+    "latin": "kata_778",
+    "translit": "translit_778",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 778",
+      "makna lain 778"
+    ]
+  },
+  {
+    "id": 779,
+    "arab": "كتمح",
+    "latin": "kata_779",
+    "translit": "translit_779",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 779",
+      "makna lain 779"
+    ]
+  },
+  {
+    "id": 780,
+    "arab": "فععه",
+    "latin": "kata_780",
+    "translit": "translit_780",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 780",
+      "makna lain 780"
+    ]
+  },
+  {
+    "id": 781,
+    "arab": "كتوور",
+    "latin": "kata_781",
+    "translit": "translit_781",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 781",
+      "makna lain 781"
+    ]
+  },
+  {
+    "id": 782,
+    "arab": "كفيي",
+    "latin": "kata_782",
+    "translit": "translit_782",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 782",
+      "makna lain 782"
+    ]
+  },
+  {
+    "id": 783,
+    "arab": "نحش",
+    "latin": "kata_783",
+    "translit": "translit_783",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 783",
+      "makna lain 783"
+    ]
+  },
+  {
+    "id": 784,
+    "arab": "قتد",
+    "latin": "kata_784",
+    "translit": "translit_784",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 784",
+      "makna lain 784"
+    ]
+  },
+  {
+    "id": 785,
+    "arab": "شون",
+    "latin": "kata_785",
+    "translit": "translit_785",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 785",
+      "makna lain 785"
+    ]
+  },
+  {
+    "id": 786,
+    "arab": "ددقحد",
+    "latin": "kata_786",
+    "translit": "translit_786",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 786",
+      "makna lain 786"
+    ]
+  },
+  {
+    "id": 787,
+    "arab": "ندكك",
+    "latin": "kata_787",
+    "translit": "translit_787",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 787",
+      "makna lain 787"
+    ]
+  },
+  {
+    "id": 788,
+    "arab": "شهوهت",
+    "latin": "kata_788",
+    "translit": "translit_788",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 788",
+      "makna lain 788"
+    ]
+  },
+  {
+    "id": 789,
+    "arab": "ركندش",
+    "latin": "kata_789",
+    "translit": "translit_789",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 789",
+      "makna lain 789"
+    ]
+  },
+  {
+    "id": 790,
+    "arab": "ريتح",
+    "latin": "kata_790",
+    "translit": "translit_790",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 790",
+      "makna lain 790"
+    ]
+  },
+  {
+    "id": 791,
+    "arab": "نبلف",
+    "latin": "kata_791",
+    "translit": "translit_791",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 791",
+      "makna lain 791"
+    ]
+  },
+  {
+    "id": 792,
+    "arab": "سشقمي",
+    "latin": "kata_792",
+    "translit": "translit_792",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 792",
+      "makna lain 792"
+    ]
+  },
+  {
+    "id": 793,
+    "arab": "ردل",
+    "latin": "kata_793",
+    "translit": "translit_793",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 793",
+      "makna lain 793"
+    ]
+  },
+  {
+    "id": 794,
+    "arab": "قدعدر",
+    "latin": "kata_794",
+    "translit": "translit_794",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 794",
+      "makna lain 794"
+    ]
+  },
+  {
+    "id": 795,
+    "arab": "بممف",
+    "latin": "kata_795",
+    "translit": "translit_795",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 795",
+      "makna lain 795"
+    ]
+  },
+  {
+    "id": 796,
+    "arab": "دلكب",
+    "latin": "kata_796",
+    "translit": "translit_796",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 796",
+      "makna lain 796"
+    ]
+  },
+  {
+    "id": 797,
+    "arab": "عبه",
+    "latin": "kata_797",
+    "translit": "translit_797",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 797",
+      "makna lain 797"
+    ]
+  },
+  {
+    "id": 798,
+    "arab": "حدلفي",
+    "latin": "kata_798",
+    "translit": "translit_798",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 798",
+      "makna lain 798"
+    ]
+  },
+  {
+    "id": 799,
+    "arab": "كعي",
+    "latin": "kata_799",
+    "translit": "translit_799",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 799",
+      "makna lain 799"
+    ]
+  },
+  {
+    "id": 800,
+    "arab": "يلب",
+    "latin": "kata_800",
+    "translit": "translit_800",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 800",
+      "makna lain 800"
+    ]
+  },
+  {
+    "id": 801,
+    "arab": "تبمب",
+    "latin": "kata_801",
+    "translit": "translit_801",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 801",
+      "makna lain 801"
+    ]
+  },
+  {
+    "id": 802,
+    "arab": "ووتفه",
+    "latin": "kata_802",
+    "translit": "translit_802",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 802",
+      "makna lain 802"
+    ]
+  },
+  {
+    "id": 803,
+    "arab": "مكمنك",
+    "latin": "kata_803",
+    "translit": "translit_803",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 803",
+      "makna lain 803"
+    ]
+  },
+  {
+    "id": 804,
+    "arab": "دكينت",
+    "latin": "kata_804",
+    "translit": "translit_804",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 804",
+      "makna lain 804"
+    ]
+  },
+  {
+    "id": 805,
+    "arab": "سلو",
+    "latin": "kata_805",
+    "translit": "translit_805",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 805",
+      "makna lain 805"
+    ]
+  },
+  {
+    "id": 806,
+    "arab": "كقفدم",
+    "latin": "kata_806",
+    "translit": "translit_806",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 806",
+      "makna lain 806"
+    ]
+  },
+  {
+    "id": 807,
+    "arab": "دتش",
+    "latin": "kata_807",
+    "translit": "translit_807",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 807",
+      "makna lain 807"
+    ]
+  },
+  {
+    "id": 808,
+    "arab": "كدع",
+    "latin": "kata_808",
+    "translit": "translit_808",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 808",
+      "makna lain 808"
+    ]
+  },
+  {
+    "id": 809,
+    "arab": "تيب",
+    "latin": "kata_809",
+    "translit": "translit_809",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 809",
+      "makna lain 809"
+    ]
+  },
+  {
+    "id": 810,
+    "arab": "تبن",
+    "latin": "kata_810",
+    "translit": "translit_810",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 810",
+      "makna lain 810"
+    ]
+  },
+  {
+    "id": 811,
+    "arab": "كبود",
+    "latin": "kata_811",
+    "translit": "translit_811",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 811",
+      "makna lain 811"
+    ]
+  },
+  {
+    "id": 812,
+    "arab": "عسنش",
+    "latin": "kata_812",
+    "translit": "translit_812",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 812",
+      "makna lain 812"
+    ]
+  },
+  {
+    "id": 813,
+    "arab": "شعكن",
+    "latin": "kata_813",
+    "translit": "translit_813",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 813",
+      "makna lain 813"
+    ]
+  },
+  {
+    "id": 814,
+    "arab": "وفش",
+    "latin": "kata_814",
+    "translit": "translit_814",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 814",
+      "makna lain 814"
+    ]
+  },
+  {
+    "id": 815,
+    "arab": "رسبع",
+    "latin": "kata_815",
+    "translit": "translit_815",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 815",
+      "makna lain 815"
+    ]
+  },
+  {
+    "id": 816,
+    "arab": "وحشسف",
+    "latin": "kata_816",
+    "translit": "translit_816",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 816",
+      "makna lain 816"
+    ]
+  },
+  {
+    "id": 817,
+    "arab": "ميعوف",
+    "latin": "kata_817",
+    "translit": "translit_817",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 817",
+      "makna lain 817"
+    ]
+  },
+  {
+    "id": 818,
+    "arab": "هقنح",
+    "latin": "kata_818",
+    "translit": "translit_818",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 818",
+      "makna lain 818"
+    ]
+  },
+  {
+    "id": 819,
+    "arab": "دهكتح",
+    "latin": "kata_819",
+    "translit": "translit_819",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 819",
+      "makna lain 819"
+    ]
+  },
+  {
+    "id": 820,
+    "arab": "لبتوش",
+    "latin": "kata_820",
+    "translit": "translit_820",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 820",
+      "makna lain 820"
+    ]
+  },
+  {
+    "id": 821,
+    "arab": "كدش",
+    "latin": "kata_821",
+    "translit": "translit_821",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 821",
+      "makna lain 821"
+    ]
+  },
+  {
+    "id": 822,
+    "arab": "شسدرس",
+    "latin": "kata_822",
+    "translit": "translit_822",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 822",
+      "makna lain 822"
+    ]
+  },
+  {
+    "id": 823,
+    "arab": "كحف",
+    "latin": "kata_823",
+    "translit": "translit_823",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 823",
+      "makna lain 823"
+    ]
+  },
+  {
+    "id": 824,
+    "arab": "منق",
+    "latin": "kata_824",
+    "translit": "translit_824",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 824",
+      "makna lain 824"
+    ]
+  },
+  {
+    "id": 825,
+    "arab": "عقنتر",
+    "latin": "kata_825",
+    "translit": "translit_825",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 825",
+      "makna lain 825"
+    ]
+  },
+  {
+    "id": 826,
+    "arab": "رهع",
+    "latin": "kata_826",
+    "translit": "translit_826",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 826",
+      "makna lain 826"
+    ]
+  },
+  {
+    "id": 827,
+    "arab": "سحه",
+    "latin": "kata_827",
+    "translit": "translit_827",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 827",
+      "makna lain 827"
+    ]
+  },
+  {
+    "id": 828,
+    "arab": "تففون",
+    "latin": "kata_828",
+    "translit": "translit_828",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 828",
+      "makna lain 828"
+    ]
+  },
+  {
+    "id": 829,
+    "arab": "يبسس",
+    "latin": "kata_829",
+    "translit": "translit_829",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 829",
+      "makna lain 829"
+    ]
+  },
+  {
+    "id": 830,
+    "arab": "معلو",
+    "latin": "kata_830",
+    "translit": "translit_830",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 830",
+      "makna lain 830"
+    ]
+  },
+  {
+    "id": 831,
+    "arab": "سهدب",
+    "latin": "kata_831",
+    "translit": "translit_831",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 831",
+      "makna lain 831"
+    ]
+  },
+  {
+    "id": 832,
+    "arab": "دهكفه",
+    "latin": "kata_832",
+    "translit": "translit_832",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 832",
+      "makna lain 832"
+    ]
+  },
+  {
+    "id": 833,
+    "arab": "شهكم",
+    "latin": "kata_833",
+    "translit": "translit_833",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 833",
+      "makna lain 833"
+    ]
+  },
+  {
+    "id": 834,
+    "arab": "هنش",
+    "latin": "kata_834",
+    "translit": "translit_834",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 834",
+      "makna lain 834"
+    ]
+  },
+  {
+    "id": 835,
+    "arab": "عمكه",
+    "latin": "kata_835",
+    "translit": "translit_835",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 835",
+      "makna lain 835"
+    ]
+  },
+  {
+    "id": 836,
+    "arab": "رسم",
+    "latin": "kata_836",
+    "translit": "translit_836",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 836",
+      "makna lain 836"
+    ]
+  },
+  {
+    "id": 837,
+    "arab": "بكيفب",
+    "latin": "kata_837",
+    "translit": "translit_837",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 837",
+      "makna lain 837"
+    ]
+  },
+  {
+    "id": 838,
+    "arab": "متعقب",
+    "latin": "kata_838",
+    "translit": "translit_838",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 838",
+      "makna lain 838"
+    ]
+  },
+  {
+    "id": 839,
+    "arab": "عييدد",
+    "latin": "kata_839",
+    "translit": "translit_839",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 839",
+      "makna lain 839"
+    ]
+  },
+  {
+    "id": 840,
+    "arab": "نرف",
+    "latin": "kata_840",
+    "translit": "translit_840",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 840",
+      "makna lain 840"
+    ]
+  },
+  {
+    "id": 841,
+    "arab": "تدبع",
+    "latin": "kata_841",
+    "translit": "translit_841",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 841",
+      "makna lain 841"
+    ]
+  },
+  {
+    "id": 842,
+    "arab": "هومحد",
+    "latin": "kata_842",
+    "translit": "translit_842",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 842",
+      "makna lain 842"
+    ]
+  },
+  {
+    "id": 843,
+    "arab": "يعبه",
+    "latin": "kata_843",
+    "translit": "translit_843",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 843",
+      "makna lain 843"
+    ]
+  },
+  {
+    "id": 844,
+    "arab": "كتكدو",
+    "latin": "kata_844",
+    "translit": "translit_844",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 844",
+      "makna lain 844"
+    ]
+  },
+  {
+    "id": 845,
+    "arab": "تشتعف",
+    "latin": "kata_845",
+    "translit": "translit_845",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 845",
+      "makna lain 845"
+    ]
+  },
+  {
+    "id": 846,
+    "arab": "دولش",
+    "latin": "kata_846",
+    "translit": "translit_846",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 846",
+      "makna lain 846"
+    ]
+  },
+  {
+    "id": 847,
+    "arab": "نحعك",
+    "latin": "kata_847",
+    "translit": "translit_847",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 847",
+      "makna lain 847"
+    ]
+  },
+  {
+    "id": 848,
+    "arab": "قنكو",
+    "latin": "kata_848",
+    "translit": "translit_848",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 848",
+      "makna lain 848"
+    ]
+  },
+  {
+    "id": 849,
+    "arab": "هبسنل",
+    "latin": "kata_849",
+    "translit": "translit_849",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 849",
+      "makna lain 849"
+    ]
+  },
+  {
+    "id": 850,
+    "arab": "حبقم",
+    "latin": "kata_850",
+    "translit": "translit_850",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 850",
+      "makna lain 850"
+    ]
+  },
+  {
+    "id": 851,
+    "arab": "مكري",
+    "latin": "kata_851",
+    "translit": "translit_851",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 851",
+      "makna lain 851"
+    ]
+  },
+  {
+    "id": 852,
+    "arab": "فحتعن",
+    "latin": "kata_852",
+    "translit": "translit_852",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 852",
+      "makna lain 852"
+    ]
+  },
+  {
+    "id": 853,
+    "arab": "مودكل",
+    "latin": "kata_853",
+    "translit": "translit_853",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 853",
+      "makna lain 853"
+    ]
+  },
+  {
+    "id": 854,
+    "arab": "عبه",
+    "latin": "kata_854",
+    "translit": "translit_854",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 854",
+      "makna lain 854"
+    ]
+  },
+  {
+    "id": 855,
+    "arab": "رحعح",
+    "latin": "kata_855",
+    "translit": "translit_855",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 855",
+      "makna lain 855"
+    ]
+  },
+  {
+    "id": 856,
+    "arab": "مشي",
+    "latin": "kata_856",
+    "translit": "translit_856",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 856",
+      "makna lain 856"
+    ]
+  },
+  {
+    "id": 857,
+    "arab": "وشد",
+    "latin": "kata_857",
+    "translit": "translit_857",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 857",
+      "makna lain 857"
+    ]
+  },
+  {
+    "id": 858,
+    "arab": "شهبد",
+    "latin": "kata_858",
+    "translit": "translit_858",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 858",
+      "makna lain 858"
+    ]
+  },
+  {
+    "id": 859,
+    "arab": "مشلح",
+    "latin": "kata_859",
+    "translit": "translit_859",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 859",
+      "makna lain 859"
+    ]
+  },
+  {
+    "id": 860,
+    "arab": "وبيو",
+    "latin": "kata_860",
+    "translit": "translit_860",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 860",
+      "makna lain 860"
+    ]
+  },
+  {
+    "id": 861,
+    "arab": "تشفع",
+    "latin": "kata_861",
+    "translit": "translit_861",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 861",
+      "makna lain 861"
+    ]
+  },
+  {
+    "id": 862,
+    "arab": "رتمو",
+    "latin": "kata_862",
+    "translit": "translit_862",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 862",
+      "makna lain 862"
+    ]
+  },
+  {
+    "id": 863,
+    "arab": "تتقعك",
+    "latin": "kata_863",
+    "translit": "translit_863",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 863",
+      "makna lain 863"
+    ]
+  },
+  {
+    "id": 864,
+    "arab": "حدهك",
+    "latin": "kata_864",
+    "translit": "translit_864",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 864",
+      "makna lain 864"
+    ]
+  },
+  {
+    "id": 865,
+    "arab": "ميس",
+    "latin": "kata_865",
+    "translit": "translit_865",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 865",
+      "makna lain 865"
+    ]
+  },
+  {
+    "id": 866,
+    "arab": "سممك",
+    "latin": "kata_866",
+    "translit": "translit_866",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 866",
+      "makna lain 866"
+    ]
+  },
+  {
+    "id": 867,
+    "arab": "ليقفع",
+    "latin": "kata_867",
+    "translit": "translit_867",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 867",
+      "makna lain 867"
+    ]
+  },
+  {
+    "id": 868,
+    "arab": "عرقيف",
+    "latin": "kata_868",
+    "translit": "translit_868",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 868",
+      "makna lain 868"
+    ]
+  },
+  {
+    "id": 869,
+    "arab": "ولقن",
+    "latin": "kata_869",
+    "translit": "translit_869",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 869",
+      "makna lain 869"
+    ]
+  },
+  {
+    "id": 870,
+    "arab": "دعك",
+    "latin": "kata_870",
+    "translit": "translit_870",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 870",
+      "makna lain 870"
+    ]
+  },
+  {
+    "id": 871,
+    "arab": "وين",
+    "latin": "kata_871",
+    "translit": "translit_871",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 871",
+      "makna lain 871"
+    ]
+  },
+  {
+    "id": 872,
+    "arab": "وفف",
+    "latin": "kata_872",
+    "translit": "translit_872",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 872",
+      "makna lain 872"
+    ]
+  },
+  {
+    "id": 873,
+    "arab": "كته",
+    "latin": "kata_873",
+    "translit": "translit_873",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 873",
+      "makna lain 873"
+    ]
+  },
+  {
+    "id": 874,
+    "arab": "كقتك",
+    "latin": "kata_874",
+    "translit": "translit_874",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 874",
+      "makna lain 874"
+    ]
+  },
+  {
+    "id": 875,
+    "arab": "هدبقن",
+    "latin": "kata_875",
+    "translit": "translit_875",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 875",
+      "makna lain 875"
+    ]
+  },
+  {
+    "id": 876,
+    "arab": "فكوت",
+    "latin": "kata_876",
+    "translit": "translit_876",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 876",
+      "makna lain 876"
+    ]
+  },
+  {
+    "id": 877,
+    "arab": "نيف",
+    "latin": "kata_877",
+    "translit": "translit_877",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 877",
+      "makna lain 877"
+    ]
+  },
+  {
+    "id": 878,
+    "arab": "يولير",
+    "latin": "kata_878",
+    "translit": "translit_878",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 878",
+      "makna lain 878"
+    ]
+  },
+  {
+    "id": 879,
+    "arab": "مهعف",
+    "latin": "kata_879",
+    "translit": "translit_879",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 879",
+      "makna lain 879"
+    ]
+  },
+  {
+    "id": 880,
+    "arab": "تفمي",
+    "latin": "kata_880",
+    "translit": "translit_880",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 880",
+      "makna lain 880"
+    ]
+  },
+  {
+    "id": 881,
+    "arab": "فقمبب",
+    "latin": "kata_881",
+    "translit": "translit_881",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 881",
+      "makna lain 881"
+    ]
+  },
+  {
+    "id": 882,
+    "arab": "فشم",
+    "latin": "kata_882",
+    "translit": "translit_882",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 882",
+      "makna lain 882"
+    ]
+  },
+  {
+    "id": 883,
+    "arab": "عفبب",
+    "latin": "kata_883",
+    "translit": "translit_883",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 883",
+      "makna lain 883"
+    ]
+  },
+  {
+    "id": 884,
+    "arab": "هللمق",
+    "latin": "kata_884",
+    "translit": "translit_884",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 884",
+      "makna lain 884"
+    ]
+  },
+  {
+    "id": 885,
+    "arab": "مهلم",
+    "latin": "kata_885",
+    "translit": "translit_885",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 885",
+      "makna lain 885"
+    ]
+  },
+  {
+    "id": 886,
+    "arab": "دننلي",
+    "latin": "kata_886",
+    "translit": "translit_886",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 886",
+      "makna lain 886"
+    ]
+  },
+  {
+    "id": 887,
+    "arab": "ببتلس",
+    "latin": "kata_887",
+    "translit": "translit_887",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 887",
+      "makna lain 887"
+    ]
+  },
+  {
+    "id": 888,
+    "arab": "ششفمس",
+    "latin": "kata_888",
+    "translit": "translit_888",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 888",
+      "makna lain 888"
+    ]
+  },
+  {
+    "id": 889,
+    "arab": "مدعرع",
+    "latin": "kata_889",
+    "translit": "translit_889",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 889",
+      "makna lain 889"
+    ]
+  },
+  {
+    "id": 890,
+    "arab": "لوش",
+    "latin": "kata_890",
+    "translit": "translit_890",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 890",
+      "makna lain 890"
+    ]
+  },
+  {
+    "id": 891,
+    "arab": "بكسع",
+    "latin": "kata_891",
+    "translit": "translit_891",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 891",
+      "makna lain 891"
+    ]
+  },
+  {
+    "id": 892,
+    "arab": "ولب",
+    "latin": "kata_892",
+    "translit": "translit_892",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 892",
+      "makna lain 892"
+    ]
+  },
+  {
+    "id": 893,
+    "arab": "دعشع",
+    "latin": "kata_893",
+    "translit": "translit_893",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 893",
+      "makna lain 893"
+    ]
+  },
+  {
+    "id": 894,
+    "arab": "لقب",
+    "latin": "kata_894",
+    "translit": "translit_894",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 894",
+      "makna lain 894"
+    ]
+  },
+  {
+    "id": 895,
+    "arab": "همسق",
+    "latin": "kata_895",
+    "translit": "translit_895",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 895",
+      "makna lain 895"
+    ]
+  },
+  {
+    "id": 896,
+    "arab": "بشوس",
+    "latin": "kata_896",
+    "translit": "translit_896",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 896",
+      "makna lain 896"
+    ]
+  },
+  {
+    "id": 897,
+    "arab": "رششه",
+    "latin": "kata_897",
+    "translit": "translit_897",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 897",
+      "makna lain 897"
+    ]
+  },
+  {
+    "id": 898,
+    "arab": "يتكفر",
+    "latin": "kata_898",
+    "translit": "translit_898",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 898",
+      "makna lain 898"
+    ]
+  },
+  {
+    "id": 899,
+    "arab": "وبر",
+    "latin": "kata_899",
+    "translit": "translit_899",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 899",
+      "makna lain 899"
+    ]
+  },
+  {
+    "id": 900,
+    "arab": "فمكق",
+    "latin": "kata_900",
+    "translit": "translit_900",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 900",
+      "makna lain 900"
+    ]
+  },
+  {
+    "id": 901,
+    "arab": "نهحل",
+    "latin": "kata_901",
+    "translit": "translit_901",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 901",
+      "makna lain 901"
+    ]
+  },
+  {
+    "id": 902,
+    "arab": "ككرلب",
+    "latin": "kata_902",
+    "translit": "translit_902",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 902",
+      "makna lain 902"
+    ]
+  },
+  {
+    "id": 903,
+    "arab": "تولف",
+    "latin": "kata_903",
+    "translit": "translit_903",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 903",
+      "makna lain 903"
+    ]
+  },
+  {
+    "id": 904,
+    "arab": "شعروق",
+    "latin": "kata_904",
+    "translit": "translit_904",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 904",
+      "makna lain 904"
+    ]
+  },
+  {
+    "id": 905,
+    "arab": "تلن",
+    "latin": "kata_905",
+    "translit": "translit_905",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 905",
+      "makna lain 905"
+    ]
+  },
+  {
+    "id": 906,
+    "arab": "نكي",
+    "latin": "kata_906",
+    "translit": "translit_906",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 906",
+      "makna lain 906"
+    ]
+  },
+  {
+    "id": 907,
+    "arab": "شنقلس",
+    "latin": "kata_907",
+    "translit": "translit_907",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 907",
+      "makna lain 907"
+    ]
+  },
+  {
+    "id": 908,
+    "arab": "حدسق",
+    "latin": "kata_908",
+    "translit": "translit_908",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 908",
+      "makna lain 908"
+    ]
+  },
+  {
+    "id": 909,
+    "arab": "موسهن",
+    "latin": "kata_909",
+    "translit": "translit_909",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 909",
+      "makna lain 909"
+    ]
+  },
+  {
+    "id": 910,
+    "arab": "بتس",
+    "latin": "kata_910",
+    "translit": "translit_910",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 910",
+      "makna lain 910"
+    ]
+  },
+  {
+    "id": 911,
+    "arab": "سفع",
+    "latin": "kata_911",
+    "translit": "translit_911",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 911",
+      "makna lain 911"
+    ]
+  },
+  {
+    "id": 912,
+    "arab": "لفش",
+    "latin": "kata_912",
+    "translit": "translit_912",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 912",
+      "makna lain 912"
+    ]
+  },
+  {
+    "id": 913,
+    "arab": "بدب",
+    "latin": "kata_913",
+    "translit": "translit_913",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 913",
+      "makna lain 913"
+    ]
+  },
+  {
+    "id": 914,
+    "arab": "شدلت",
+    "latin": "kata_914",
+    "translit": "translit_914",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 914",
+      "makna lain 914"
+    ]
+  },
+  {
+    "id": 915,
+    "arab": "فري",
+    "latin": "kata_915",
+    "translit": "translit_915",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 915",
+      "makna lain 915"
+    ]
+  },
+  {
+    "id": 916,
+    "arab": "فهن",
+    "latin": "kata_916",
+    "translit": "translit_916",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 916",
+      "makna lain 916"
+    ]
+  },
+  {
+    "id": 917,
+    "arab": "ببرعب",
+    "latin": "kata_917",
+    "translit": "translit_917",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 917",
+      "makna lain 917"
+    ]
+  },
+  {
+    "id": 918,
+    "arab": "قشهيت",
+    "latin": "kata_918",
+    "translit": "translit_918",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 918",
+      "makna lain 918"
+    ]
+  },
+  {
+    "id": 919,
+    "arab": "فملف",
+    "latin": "kata_919",
+    "translit": "translit_919",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 919",
+      "makna lain 919"
+    ]
+  },
+  {
+    "id": 920,
+    "arab": "يكتع",
+    "latin": "kata_920",
+    "translit": "translit_920",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 920",
+      "makna lain 920"
+    ]
+  },
+  {
+    "id": 921,
+    "arab": "نمكك",
+    "latin": "kata_921",
+    "translit": "translit_921",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 921",
+      "makna lain 921"
+    ]
+  },
+  {
+    "id": 922,
+    "arab": "سينن",
+    "latin": "kata_922",
+    "translit": "translit_922",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 922",
+      "makna lain 922"
+    ]
+  },
+  {
+    "id": 923,
+    "arab": "مري",
+    "latin": "kata_923",
+    "translit": "translit_923",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 923",
+      "makna lain 923"
+    ]
+  },
+  {
+    "id": 924,
+    "arab": "سمق",
+    "latin": "kata_924",
+    "translit": "translit_924",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 924",
+      "makna lain 924"
+    ]
+  },
+  {
+    "id": 925,
+    "arab": "قحني",
+    "latin": "kata_925",
+    "translit": "translit_925",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 925",
+      "makna lain 925"
+    ]
+  },
+  {
+    "id": 926,
+    "arab": "فسش",
+    "latin": "kata_926",
+    "translit": "translit_926",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 926",
+      "makna lain 926"
+    ]
+  },
+  {
+    "id": 927,
+    "arab": "قنهرش",
+    "latin": "kata_927",
+    "translit": "translit_927",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 927",
+      "makna lain 927"
+    ]
+  },
+  {
+    "id": 928,
+    "arab": "هرحم",
+    "latin": "kata_928",
+    "translit": "translit_928",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 928",
+      "makna lain 928"
+    ]
+  },
+  {
+    "id": 929,
+    "arab": "حسي",
+    "latin": "kata_929",
+    "translit": "translit_929",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 929",
+      "makna lain 929"
+    ]
+  },
+  {
+    "id": 930,
+    "arab": "حقو",
+    "latin": "kata_930",
+    "translit": "translit_930",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 930",
+      "makna lain 930"
+    ]
+  },
+  {
+    "id": 931,
+    "arab": "همبلح",
+    "latin": "kata_931",
+    "translit": "translit_931",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 931",
+      "makna lain 931"
+    ]
+  },
+  {
+    "id": 932,
+    "arab": "رشيش",
+    "latin": "kata_932",
+    "translit": "translit_932",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 932",
+      "makna lain 932"
+    ]
+  },
+  {
+    "id": 933,
+    "arab": "يرهب",
+    "latin": "kata_933",
+    "translit": "translit_933",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 933",
+      "makna lain 933"
+    ]
+  },
+  {
+    "id": 934,
+    "arab": "ععدني",
+    "latin": "kata_934",
+    "translit": "translit_934",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 934",
+      "makna lain 934"
+    ]
+  },
+  {
+    "id": 935,
+    "arab": "للبك",
+    "latin": "kata_935",
+    "translit": "translit_935",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 935",
+      "makna lain 935"
+    ]
+  },
+  {
+    "id": 936,
+    "arab": "كقسه",
+    "latin": "kata_936",
+    "translit": "translit_936",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 936",
+      "makna lain 936"
+    ]
+  },
+  {
+    "id": 937,
+    "arab": "حبسف",
+    "latin": "kata_937",
+    "translit": "translit_937",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 937",
+      "makna lain 937"
+    ]
+  },
+  {
+    "id": 938,
+    "arab": "ددتنو",
+    "latin": "kata_938",
+    "translit": "translit_938",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 938",
+      "makna lain 938"
+    ]
+  },
+  {
+    "id": 939,
+    "arab": "تكسك",
+    "latin": "kata_939",
+    "translit": "translit_939",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 939",
+      "makna lain 939"
+    ]
+  },
+  {
+    "id": 940,
+    "arab": "كنف",
+    "latin": "kata_940",
+    "translit": "translit_940",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 940",
+      "makna lain 940"
+    ]
+  },
+  {
+    "id": 941,
+    "arab": "عسلفت",
+    "latin": "kata_941",
+    "translit": "translit_941",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 941",
+      "makna lain 941"
+    ]
+  },
+  {
+    "id": 942,
+    "arab": "حدوب",
+    "latin": "kata_942",
+    "translit": "translit_942",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 942",
+      "makna lain 942"
+    ]
+  },
+  {
+    "id": 943,
+    "arab": "مردح",
+    "latin": "kata_943",
+    "translit": "translit_943",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 943",
+      "makna lain 943"
+    ]
+  },
+  {
+    "id": 944,
+    "arab": "عفقت",
+    "latin": "kata_944",
+    "translit": "translit_944",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 944",
+      "makna lain 944"
+    ]
+  },
+  {
+    "id": 945,
+    "arab": "حلقين",
+    "latin": "kata_945",
+    "translit": "translit_945",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 945",
+      "makna lain 945"
+    ]
+  },
+  {
+    "id": 946,
+    "arab": "ليل",
+    "latin": "kata_946",
+    "translit": "translit_946",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 946",
+      "makna lain 946"
+    ]
+  },
+  {
+    "id": 947,
+    "arab": "حشد",
+    "latin": "kata_947",
+    "translit": "translit_947",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 947",
+      "makna lain 947"
+    ]
+  },
+  {
+    "id": 948,
+    "arab": "حلم",
+    "latin": "kata_948",
+    "translit": "translit_948",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 948",
+      "makna lain 948"
+    ]
+  },
+  {
+    "id": 949,
+    "arab": "دقهي",
+    "latin": "kata_949",
+    "translit": "translit_949",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 949",
+      "makna lain 949"
+    ]
+  },
+  {
+    "id": 950,
+    "arab": "رمن",
+    "latin": "kata_950",
+    "translit": "translit_950",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 950",
+      "makna lain 950"
+    ]
+  },
+  {
+    "id": 951,
+    "arab": "يحوم",
+    "latin": "kata_951",
+    "translit": "translit_951",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 951",
+      "makna lain 951"
+    ]
+  },
+  {
+    "id": 952,
+    "arab": "سسهي",
+    "latin": "kata_952",
+    "translit": "translit_952",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 952",
+      "makna lain 952"
+    ]
+  },
+  {
+    "id": 953,
+    "arab": "نهر",
+    "latin": "kata_953",
+    "translit": "translit_953",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 953",
+      "makna lain 953"
+    ]
+  },
+  {
+    "id": 954,
+    "arab": "تبلمش",
+    "latin": "kata_954",
+    "translit": "translit_954",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 954",
+      "makna lain 954"
+    ]
+  },
+  {
+    "id": 955,
+    "arab": "عتوهش",
+    "latin": "kata_955",
+    "translit": "translit_955",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 955",
+      "makna lain 955"
+    ]
+  },
+  {
+    "id": 956,
+    "arab": "قشهي",
+    "latin": "kata_956",
+    "translit": "translit_956",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 956",
+      "makna lain 956"
+    ]
+  },
+  {
+    "id": 957,
+    "arab": "كبوقف",
+    "latin": "kata_957",
+    "translit": "translit_957",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 957",
+      "makna lain 957"
+    ]
+  },
+  {
+    "id": 958,
+    "arab": "سيعس",
+    "latin": "kata_958",
+    "translit": "translit_958",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 958",
+      "makna lain 958"
+    ]
+  },
+  {
+    "id": 959,
+    "arab": "تبد",
+    "latin": "kata_959",
+    "translit": "translit_959",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 959",
+      "makna lain 959"
+    ]
+  },
+  {
+    "id": 960,
+    "arab": "هشحب",
+    "latin": "kata_960",
+    "translit": "translit_960",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 960",
+      "makna lain 960"
+    ]
+  },
+  {
+    "id": 961,
+    "arab": "رمفد",
+    "latin": "kata_961",
+    "translit": "translit_961",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 961",
+      "makna lain 961"
+    ]
+  },
+  {
+    "id": 962,
+    "arab": "بلرفع",
+    "latin": "kata_962",
+    "translit": "translit_962",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 962",
+      "makna lain 962"
+    ]
+  },
+  {
+    "id": 963,
+    "arab": "تفوحه",
+    "latin": "kata_963",
+    "translit": "translit_963",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 963",
+      "makna lain 963"
+    ]
+  },
+  {
+    "id": 964,
+    "arab": "وحرر",
+    "latin": "kata_964",
+    "translit": "translit_964",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 964",
+      "makna lain 964"
+    ]
+  },
+  {
+    "id": 965,
+    "arab": "هده",
+    "latin": "kata_965",
+    "translit": "translit_965",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 965",
+      "makna lain 965"
+    ]
+  },
+  {
+    "id": 966,
+    "arab": "حده",
+    "latin": "kata_966",
+    "translit": "translit_966",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 966",
+      "makna lain 966"
+    ]
+  },
+  {
+    "id": 967,
+    "arab": "ككيك",
+    "latin": "kata_967",
+    "translit": "translit_967",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 967",
+      "makna lain 967"
+    ]
+  },
+  {
+    "id": 968,
+    "arab": "مدي",
+    "latin": "kata_968",
+    "translit": "translit_968",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 968",
+      "makna lain 968"
+    ]
+  },
+  {
+    "id": 969,
+    "arab": "وبته",
+    "latin": "kata_969",
+    "translit": "translit_969",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 969",
+      "makna lain 969"
+    ]
+  },
+  {
+    "id": 970,
+    "arab": "لرر",
+    "latin": "kata_970",
+    "translit": "translit_970",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 970",
+      "makna lain 970"
+    ]
+  },
+  {
+    "id": 971,
+    "arab": "نمف",
+    "latin": "kata_971",
+    "translit": "translit_971",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 971",
+      "makna lain 971"
+    ]
+  },
+  {
+    "id": 972,
+    "arab": "فهكل",
+    "latin": "kata_972",
+    "translit": "translit_972",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 972",
+      "makna lain 972"
+    ]
+  },
+  {
+    "id": 973,
+    "arab": "وقدده",
+    "latin": "kata_973",
+    "translit": "translit_973",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 973",
+      "makna lain 973"
+    ]
+  },
+  {
+    "id": 974,
+    "arab": "شهفنش",
+    "latin": "kata_974",
+    "translit": "translit_974",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 974",
+      "makna lain 974"
+    ]
+  },
+  {
+    "id": 975,
+    "arab": "عتفشب",
+    "latin": "kata_975",
+    "translit": "translit_975",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 975",
+      "makna lain 975"
+    ]
+  },
+  {
+    "id": 976,
+    "arab": "تقكه",
+    "latin": "kata_976",
+    "translit": "translit_976",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 976",
+      "makna lain 976"
+    ]
+  },
+  {
+    "id": 977,
+    "arab": "للله",
+    "latin": "kata_977",
+    "translit": "translit_977",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 977",
+      "makna lain 977"
+    ]
+  },
+  {
+    "id": 978,
+    "arab": "عكي",
+    "latin": "kata_978",
+    "translit": "translit_978",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 978",
+      "makna lain 978"
+    ]
+  },
+  {
+    "id": 979,
+    "arab": "مبق",
+    "latin": "kata_979",
+    "translit": "translit_979",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 979",
+      "makna lain 979"
+    ]
+  },
+  {
+    "id": 980,
+    "arab": "فلي",
+    "latin": "kata_980",
+    "translit": "translit_980",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 980",
+      "makna lain 980"
+    ]
+  },
+  {
+    "id": 981,
+    "arab": "سقع",
+    "latin": "kata_981",
+    "translit": "translit_981",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 981",
+      "makna lain 981"
+    ]
+  },
+  {
+    "id": 982,
+    "arab": "ودنل",
+    "latin": "kata_982",
+    "translit": "translit_982",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 982",
+      "makna lain 982"
+    ]
+  },
+  {
+    "id": 983,
+    "arab": "سرد",
+    "latin": "kata_983",
+    "translit": "translit_983",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 983",
+      "makna lain 983"
+    ]
+  },
+  {
+    "id": 984,
+    "arab": "شيعب",
+    "latin": "kata_984",
+    "translit": "translit_984",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 984",
+      "makna lain 984"
+    ]
+  },
+  {
+    "id": 985,
+    "arab": "كعتم",
+    "latin": "kata_985",
+    "translit": "translit_985",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 985",
+      "makna lain 985"
+    ]
+  },
+  {
+    "id": 986,
+    "arab": "ففح",
+    "latin": "kata_986",
+    "translit": "translit_986",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 986",
+      "makna lain 986"
+    ]
+  },
+  {
+    "id": 987,
+    "arab": "دسحقش",
+    "latin": "kata_987",
+    "translit": "translit_987",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 987",
+      "makna lain 987"
+    ]
+  },
+  {
+    "id": 988,
+    "arab": "ككرحل",
+    "latin": "kata_988",
+    "translit": "translit_988",
+    "pos": "sifat",
+    "defs": [
+      "arti contoh 988",
+      "makna lain 988"
+    ]
+  },
+  {
+    "id": 989,
+    "arab": "ندمنك",
+    "latin": "kata_989",
+    "translit": "translit_989",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 989",
+      "makna lain 989"
+    ]
+  },
+  {
+    "id": 990,
+    "arab": "شبدري",
+    "latin": "kata_990",
+    "translit": "translit_990",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 990",
+      "makna lain 990"
+    ]
+  },
+  {
+    "id": 991,
+    "arab": "دقرعو",
+    "latin": "kata_991",
+    "translit": "translit_991",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 991",
+      "makna lain 991"
+    ]
+  },
+  {
+    "id": 992,
+    "arab": "يول",
+    "latin": "kata_992",
+    "translit": "translit_992",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 992",
+      "makna lain 992"
+    ]
+  },
+  {
+    "id": 993,
+    "arab": "سدوحع",
+    "latin": "kata_993",
+    "translit": "translit_993",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 993",
+      "makna lain 993"
+    ]
+  },
+  {
+    "id": 994,
+    "arab": "نحوحق",
+    "latin": "kata_994",
+    "translit": "translit_994",
+    "pos": "isim",
+    "defs": [
+      "arti contoh 994",
+      "makna lain 994"
+    ]
+  },
+  {
+    "id": 995,
+    "arab": "شدقعح",
+    "latin": "kata_995",
+    "translit": "translit_995",
+    "pos": "zharf",
+    "defs": [
+      "arti contoh 995",
+      "makna lain 995"
+    ]
+  },
+  {
+    "id": 996,
+    "arab": "سمق",
+    "latin": "kata_996",
+    "translit": "translit_996",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 996",
+      "makna lain 996"
+    ]
+  },
+  {
+    "id": 997,
+    "arab": "يقكل",
+    "latin": "kata_997",
+    "translit": "translit_997",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 997",
+      "makna lain 997"
+    ]
+  },
+  {
+    "id": 998,
+    "arab": "رحنب",
+    "latin": "kata_998",
+    "translit": "translit_998",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 998",
+      "makna lain 998"
+    ]
+  },
+  {
+    "id": 999,
+    "arab": "كسه",
+    "latin": "kata_999",
+    "translit": "translit_999",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 999",
+      "makna lain 999"
+    ]
+  },
+  {
+    "id": 1000,
+    "arab": "يرق",
+    "latin": "kata_1000",
+    "translit": "translit_1000",
+    "pos": "fi'il",
+    "defs": [
+      "arti contoh 1000",
+      "makna lain 1000"
+    ]
+  }
+]
